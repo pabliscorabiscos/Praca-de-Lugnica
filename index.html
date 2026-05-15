@@ -11,27 +11,31 @@
 <body>
 
   <header id="header">
-    <div class="logo">Re:Zero+</div>
+    <div class="logo" id="logo-home"></div>
     <nav>
-      <a href="#inicio" class="active">
+      <a id="nav-inicio" class="active">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg>
         <span>INÍCIO</span>
       </a>
-      <a href="#catalogo">
+      <a id="nav-catalogo">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="7" width="20" height="15" rx="2"/><polyline points="17 2 12 7 7 2"/></svg>
         <span>CATÁLOGO</span>
       </a>
-      <a href="#sobre">
+      <a id="nav-sobre">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
         <span>SOBRE</span>
       </a>
     </nav>
-    <button class="search-btn" aria-label="Buscar">
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-    </button>
+    <div class="search-wrap" id="search-wrap">
+      <input type="text" class="search-input" id="search-input" placeholder="Buscar episódio...">
+      <button class="search-btn" id="search-btn" aria-label="Buscar">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      </button>
+    </div>
   </header>
 
-  <section class="hero" id="inicio">
+  <!-- HERO -->
+  <section class="hero" id="hero">
     <div class="hero-bg" id="hero-bg"></div>
     <div class="hero-content">
       <h1 class="hero-title" id="hero-title"></h1>
@@ -46,29 +50,38 @@
       <div class="hero-actions">
         <button class="btn btn-primary" id="btn-assistir">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"/></svg>
-          Assistir
+          <span id="btn-assistir-texto">Assistir</span>
         </button>
       </div>
     </div>
   </section>
 
-  <section class="section" id="continuar-section">
+  <!-- CONTINUAR -->
+  <section class="section" id="continuar-section" style="display:none">
     <h2 class="section-title">Continuar Assistindo</h2>
     <div class="row" id="row-continuar"></div>
   </section>
 
-  <section class="section">
+  <!-- RECENTES -->
+  <section class="section" id="recentes-section">
     <h2 class="section-title">Adicionados Recentemente</h2>
     <div class="row" id="row-recentes"></div>
   </section>
 
-  <section class="section" id="catalogo">
-    <h2 class="section-title">Catálogo Completo</h2>
+  <!-- CATÁLOGO -->
+  <section class="section" id="catalogo-section">
+    <h2 class="section-title" id="catalogo-titulo">Catálogo Completo</h2>
     <div class="grid" id="grid-catalogo"></div>
   </section>
 
-  <footer id="sobre">
-    <div class="logo">Re:Zero+</div>
+  <!-- SOBRE -->
+  <section class="section" id="sobre-section">
+    <h2 class="section-title">Sobre</h2>
+    <div class="sobre-box" id="sobre-conteudo"></div>
+  </section>
+
+  <footer>
+    <div class="logo" id="logo-footer"></div>
     <p>Projeto pessoal sem fins lucrativos · Re:Zero é propriedade de seus respectivos detentores de direitos</p>
   </footer>
 
