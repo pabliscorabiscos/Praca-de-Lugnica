@@ -2,40 +2,42 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>Re:Zero+ — Starting Life in Another World</title>
-  <meta name="description" content="Assista Re:Zero — Starting Life in Another World online">
+  <meta name="description" content="Assista Re:Zero — Starting Life in Another World online | Streaming grátis e completo">
+  <meta name="theme-color" content="#c77dff">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Re:Zero+">
+  <link rel="manifest" href="manifest.json">
   <link rel="stylesheet" href="style.css">
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E❄%3C/text%3E%3C/svg%3E">
+  <link rel="apple-touch-icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%23c77dff'/%3E%3Ctext x='50' y='72' font-size='70' text-anchor='middle' fill='white'%3E❄%3C/text%3E%3C/svg%3E">
 </head>
 <body>
 
   <header id="header">
-    <div class="logo" id="logo-home"></div>
+    <div class="logo">Re:Zero+</div>
     <nav>
-      <a id="nav-inicio" class="active">
+      <a href="#inicio" class="active">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg>
         <span>INÍCIO</span>
       </a>
-      <a id="nav-catalogo">
+      <a href="#catalogo">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="7" width="20" height="15" rx="2"/><polyline points="17 2 12 7 7 2"/></svg>
         <span>CATÁLOGO</span>
       </a>
-      <a id="nav-sobre">
+      <a href="#sobre">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
         <span>SOBRE</span>
       </a>
     </nav>
-    <div class="search-wrap" id="search-wrap">
-      <input type="text" class="search-input" id="search-input" placeholder="Buscar episódio...">
-      <button class="search-btn" id="search-btn" aria-label="Buscar">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-      </button>
-    </div>
+    <button class="search-btn" aria-label="Buscar" id="search-btn">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    </button>
   </header>
 
-  <!-- HERO -->
-  <section class="hero" id="hero">
+  <section class="hero" id="inicio">
     <div class="hero-bg" id="hero-bg"></div>
     <div class="hero-content">
       <h1 class="hero-title" id="hero-title"></h1>
@@ -50,42 +52,220 @@
       <div class="hero-actions">
         <button class="btn btn-primary" id="btn-assistir">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"/></svg>
-          <span id="btn-assistir-texto">Assistir</span>
+          Assistir
+        </button>
+        <button class="btn btn-secondary" id="btn-catalogo">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="7" width="20" height="15" rx="2"/><polyline points="17 2 12 7 7 2"/></svg>
+          Ver catálogo
         </button>
       </div>
     </div>
   </section>
 
-  <!-- CONTINUAR -->
-  <section class="section" id="continuar-section" style="display:none">
+  <section class="section" id="continuar-section">
     <h2 class="section-title">Continuar Assistindo</h2>
     <div class="row" id="row-continuar"></div>
   </section>
 
-  <!-- RECENTES -->
-  <section class="section" id="recentes-section">
+  <section class="section">
     <h2 class="section-title">Adicionados Recentemente</h2>
     <div class="row" id="row-recentes"></div>
   </section>
 
-  <!-- CATÁLOGO -->
-  <section class="section" id="catalogo-section">
-    <h2 class="section-title" id="catalogo-titulo">Catálogo Completo</h2>
+  <section class="section" id="catalogo">
+    <h2 class="section-title">Catálogo Completo</h2>
     <div class="grid" id="grid-catalogo"></div>
   </section>
 
-  <!-- SOBRE -->
-  <section class="section" id="sobre-section">
-    <h2 class="section-title">Sobre</h2>
-    <div class="sobre-box" id="sobre-conteudo"></div>
-  </section>
-
-  <footer>
-    <div class="logo" id="logo-footer"></div>
+  <footer id="sobre">
+    <div class="logo">Re:Zero+</div>
     <p>Projeto pessoal sem fins lucrativos · Re:Zero é propriedade de seus respectivos detentores de direitos</p>
+    <p style="margin-top: 12px; font-size: 11px;">
+      <a href="painel-secreto.html" style="color: var(--muted); text-decoration: none;">⚙️ Administração</a>
+    </p>
   </footer>
 
+  <div class="toast" id="toast"></div>
+
   <script src="data.js"></script>
-  <script src="app.js"></script>
+  <script>
+  /* ============================================================
+     Re:Zero+  —  app.js (home)
+     ============================================================ */
+
+  const $ = (sel) => document.querySelector(sel);
+  const byId = (id) => EPISODIOS.find((e) => e.id === id);
+
+  /* Lê progresso salvo pelo player no localStorage */
+  function getProgress(epId) {
+    try {
+      const data = JSON.parse(localStorage.getItem(`rezeroplus:progress:${epId}`) || "null");
+      if (!data || !data.duration) return 0;
+      return Math.round((data.current / data.duration) * 100);
+    } catch { return 0; }
+  }
+
+  /* ----------------- HERO ----------------- */
+  function renderHero() {
+    if (SITE.bannerUrl) $("#hero-bg").style.backgroundImage = `url('${SITE.bannerUrl}')`;
+    $("#hero-title").textContent = SITE.titulo;
+    $("#hero-ano").textContent   = SITE.ano;
+    $("#hero-temp").textContent  = `${SITE.temporadas} TEMPORADA${SITE.temporadas > 1 ? "S" : ""}`;
+    $("#hero-qual").textContent  = SITE.qualidade;
+    $("#hero-sinopse").textContent = SITE.sinopse;
+    document.title = `${SITE.nome} — ${SITE.titulo}`;
+
+    $("#btn-assistir").addEventListener("click", () => {
+      const epRetomar = EPISODIOS.find((e) => getProgress(e.id) > 5 && getProgress(e.id) < 95);
+      const alvo = epRetomar || EPISODIOS[0];
+      if (alvo) abrirPlayer(alvo.id);
+    });
+
+    $("#btn-catalogo").addEventListener("click", () => {
+      document.querySelector("#catalogo").scrollIntoView({ behavior: "smooth" });
+    });
+
+    $("#search-btn").addEventListener("click", () => {
+      const termo = prompt("Buscar episódio:", "");
+      if (termo && termo.trim()) {
+        const encontrado = EPISODIOS.find(e => 
+          e.titulo.toLowerCase().includes(termo.toLowerCase()) ||
+          e.id.toLowerCase().includes(termo.toLowerCase())
+        );
+        if (encontrado) {
+          abrirPlayer(encontrado.id);
+        } else {
+          toast("Episódio não encontrado", "error");
+        }
+      }
+    });
+  }
+
+  /* ----------------- CARD ----------------- */
+  function criarCard(ep, { mostrarProgresso = false } = {}) {
+    const progresso = mostrarProgresso ? getProgress(ep.id) : 0;
+    const card = document.createElement("div");
+    card.className = "card";
+    card.onclick = () => abrirPlayer(ep.id);
+
+    const tagNovo = ep.novo ? `<div class="card-badge">Novo</div>` : "";
+    const progressoHtml = mostrarProgresso && progresso > 0
+      ? `<div class="card-progress"><span style="width:${progresso}%"></span></div>` : "";
+
+    card.innerHTML = `
+      <div class="card-thumb">
+        ${ep.thumb ? `<img src="${ep.thumb}" alt="${ep.titulo}" loading="lazy">` : ""}
+        ${tagNovo}
+        <div class="play-icon">
+          <svg viewBox="0 0 24 24"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+        </div>
+        <div class="card-duration">${ep.duracao} min</div>
+        ${progressoHtml}
+      </div>
+      <div class="card-info">
+        <div class="card-ep">T${ep.temporada}E${String(ep.episodio).padStart(2, "0")}</div>
+        <div class="card-title">${escapeHtml(ep.titulo)}</div>
+      </div>
+    `;
+    return card;
+  }
+
+  function escapeHtml(str) {
+    return str.replace(/[&<>]/g, function(m) {
+      if (m === '&') return '&amp;';
+      if (m === '<') return '&lt;';
+      if (m === '>') return '&gt;';
+      return m;
+    });
+  }
+
+  /* ----------------- LINHAS ----------------- */
+  function renderContinuar() {
+    const row = $("#row-continuar");
+    if (!row) return;
+    row.innerHTML = "";
+    
+    const ids = EPISODIOS
+      .filter((e) => getProgress(e.id) > 5 && getProgress(e.id) < 95)
+      .map((e) => e.id);
+
+    if (!ids.length) {
+      const section = $("#continuar-section");
+      if (section) section.style.display = "none";
+      return;
+    }
+    
+    const section = $("#continuar-section");
+    if (section) section.style.display = "";
+    
+    ids.forEach((id) => {
+      const ep = byId(id);
+      if (ep) row.appendChild(criarCard(ep, { mostrarProgresso: true }));
+    });
+  }
+
+  function renderRecentes() {
+    const row = $("#row-recentes");
+    if (!row) return;
+    row.innerHTML = "";
+    
+    const lista = (typeof RECENTES !== "undefined" && RECENTES.length) ? RECENTES : EPISODIOS.slice(-6).map((e) => e.id);
+    lista.forEach((id) => {
+      const ep = byId(id);
+      if (ep) row.appendChild(criarCard(ep));
+    });
+  }
+
+  function renderCatalogo() {
+    const grid = $("#grid-catalogo");
+    if (!grid) return;
+    grid.innerHTML = "";
+    
+    const eps = [...EPISODIOS].sort((a, b) => a.temporada - b.temporada || a.episodio - b.episodio);
+    eps.forEach((ep) => grid.appendChild(criarCard(ep)));
+  }
+
+  function abrirPlayer(epId) {
+    window.location.href = `player.html?ep=${encodeURIComponent(epId)}`;
+  }
+
+  function setupHeader() {
+    const header = $("#header");
+    window.addEventListener("scroll", () => {
+      header.classList.toggle("scrolled", window.scrollY > 40);
+    });
+  }
+
+  function toast(msg, tipo) {
+    const el = $("#toast");
+    if (!el) return;
+    el.textContent = msg;
+    el.className = "toast show " + (tipo || "");
+    clearTimeout(el._t);
+    el._t = setTimeout(() => el.classList.remove("show"), 2800);
+  }
+
+  /* ----------------- SERVICE WORKER (PWA) ----------------- */
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/sw.js').catch(err => console.log('SW error:', err));
+  }
+
+  /* ----------------- INICIALIZAÇÃO ----------------- */
+  document.addEventListener("DOMContentLoaded", () => {
+    // Aguarda data.js carregar
+    setTimeout(() => {
+      if (typeof SITE !== 'undefined' && EPISODIOS) {
+        renderHero();
+        renderContinuar();
+        renderRecentes();
+        renderCatalogo();
+        setupHeader();
+      } else {
+        console.error("Dados não carregados");
+        document.body.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;height:100vh;color:#fff;text-align:center"><div><h2>❄ Re:Zero+</h2><p>Carregando dados...</p><small>Se este erro persistir, verifique o arquivo data.js</small></div></div>';
+      }
+    }, 100);
+  });
+  </script>
 </body>
 </html>
