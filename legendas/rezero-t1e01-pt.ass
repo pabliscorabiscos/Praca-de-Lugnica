@@ -1,0 +1,814 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,40,40,15,0
+Style: Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,40,40,15,0
+Style: Flashback Dialogue,Trebuchet MS,22,&H00ECE3E3,&H000000FF,&H00431E03,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,40,40,15,0
+Style: Episode Title,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,20,0
+Style: sign_1219_5_Miso_Natto_,Times New Roman,24,&H00374259,&H000000FF,&H0070746A,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,404,100,300,0
+Style: sign_7096_50_Contacts,Trebuchet MS,16,&H00709382,&H000000FF,&H00A9F1DA,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,286,286,15,0
+Style: sign_7096_51_City_Hall__Dad__,Trebuchet MS,14,&H009FA09C,&H000000FF,&H00F9FAF6,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,289,285,45,0
+Style: sign_7096_50__Phone_Menu_,Trebuchet MS,16,&H00709382,&H000000FF,&H00A9F1DA,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,267,267,15,0
+Style: sign_7174_55_Out_of_Range,Trebuchet MS,20,&H00798B4D,&H000000FF,&H00F9FAF6,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,320,194,15,0
+Style: sign_6835_51__1_Contatos__2_P,Trebuchet MS,14,&H009FA09C,&H000000FF,&H00F9FAF6,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,270,216,41,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.98,0:00:09.27,Main Dialogue,Subaru,0,0,0,,Isso é ruim... muito ruim...
+Dialogue: 0,0:00:09.27,0:00:11.61,Main Dialogue,Emilia,0,0,0,,Subaru? O que houve?
+Dialogue: 0,0:00:20.83,0:00:23.25,Main Dialogue,Subaru,0,0,0,,Ah, entendo. É aqui que eles te fisgam.
+Dialogue: 0,0:00:23.58,0:00:25.83,Main Dialogue,Subaru,0,0,0,,Não... Corra! Rápido!
+Dialogue: 0,0:00:39.93,0:00:41.81,sign_1219_5_Miso_Natto_,Text,0,0,0,,Miso {\c&H0F2C28&}Natto
+Dialogue: 0,0:00:44.02,0:00:45.89,Main Dialogue,Subaru,0,0,0,,Não, natto não.
+Dialogue: 0,0:00:47.73,0:00:48.94,Main Dialogue,Subaru,0,0,0,,Espere...
+Dialogue: 0,0:00:49.52,0:00:51.44,Main Dialogue,Clerk,0,0,0,,Total de 363 ienes...
+Dialogue: 0,0:00:54.74,0:00:56.78,Italics Dialogue,Subaru,0,0,0,,Uma moeda giza de 10.
+Dialogue: 0,0:01:05.71,0:01:06.54,Main Dialogue,Subaru,0,0,0,,Eu...
+Dialogue: 0,0:01:07.92,0:01:08.92,Main Dialogue,Subaru,0,0,0,,...vou...
+Dialogue: 0,0:01:15.55,0:01:17.34,Main Dialogue,Subaru,0,0,0,,...te salvar.
+Dialogue: 0,0:01:29.77,0:01:34.94,Main Dialogue,Subaru,0,0,0,,Bem, imagino que qualquer um ficaria com os olhos\Ncansados depois de passar o dia jogando.
+Dialogue: 0,0:01:56.17,0:01:57.76,Italics Dialogue,Subaru,0,0,0,,O que está acontecendo?
+Dialogue: 0,0:02:03.56,0:02:06.56,Italics Dialogue,Subaru,0,0,0,,É claro que nada disso aqui é falso.
+Dialogue: 0,0:02:07.27,0:02:09.02,Italics Dialogue,Subaru,0,0,0,,O que quer dizer...
+Dialogue: 0,0:02:11.98,0:02:13.32,Italics Dialogue,Subaru,0,0,0,,Então, isso significa...
+Dialogue: 0,0:02:13.32,0:02:19.11,Main Dialogue,Subaru,0,0,0,,...que eu fui invocado em um mundo paralelo?!
+Dialogue: 0,0:02:51.85,0:02:54.23,Main Dialogue,Subaru,0,0,0,,Acho que dá para dizer que \Neste é um mundo de fantasia
+Dialogue: 0,0:02:54.23,0:02:56.86,Main Dialogue,Subaru,0,0,0,,com uma cultura tipicamente medieval.
+Dialogue: 0,0:02:57.78,0:02:59.78,Main Dialogue,Subaru,0,0,0,,Um mundo onde semi-humanos\N é algo normal de se ver
+Dialogue: 0,0:02:59.78,0:03:02.20,Main Dialogue,Subaru,0,0,0,,e tenho certeza de que \Nguerras e aventuras também.
+Dialogue: 0,0:03:02.57,0:03:04.53,Main Dialogue,Subaru,0,0,0,,E aqui estou eu...
+Dialogue: 0,0:03:04.83,0:03:05.78,Main Dialogue,Voice,0,0,0,,Ei!
+Dialogue: 0,0:03:06.20,0:03:06.95,Main Dialogue,Voice,0,0,0,,Tome cuidado!
+Dialogue: 0,0:03:08.12,0:03:11.04,Main Dialogue,Subaru,0,0,0,,É isso! Essa é a minha chance!
+Dialogue: 0,0:03:11.04,0:03:14.00,Main Dialogue,Subaru,0,0,0,,Esse deve ser o evento em que \Nlançarei minha primeira magia!
+Dialogue: 0,0:03:16.63,0:03:17.50,Main Dialogue,Knight,0,0,0,,Cuidado!
+Dialogue: 0,0:03:22.38,0:03:23.64,Main Dialogue,Voice,0,0,0,,Isso aí!
+Dialogue: 0,0:03:25.30,0:03:26.60,Main Dialogue,Voice,0,0,0,,Muito bem!
+Dialogue: 0,0:03:27.35,0:03:30.56,Main Dialogue,Subaru,0,0,0,,Acho que ainda não estou \Npronto para usar magias...
+Dialogue: 0,0:03:35.06,0:03:36.48,Italics Dialogue,Subaru,0,0,0,,Não consigo ler isso.
+Dialogue: 0,0:03:36.48,0:03:37.57,Main Dialogue,Kadomon,0,0,0,,Ei, garoto.
+Dialogue: 0,0:03:37.57,0:03:40.86,Main Dialogue,Kadomon,0,0,0,,Que roupas estranhas essas suas. \NEstá viajando?
+Dialogue: 0,0:03:41.57,0:03:42.70,Main Dialogue,Subaru,0,0,0,,O que é isso?
+Dialogue: 0,0:03:42.70,0:03:44.28,Main Dialogue,Kadomon,0,0,0,,São ringas.
+Dialogue: 0,0:03:44.82,0:03:48.16,Italics Dialogue,Subaru,0,0,0,,Eles conseguem me entender. Será que...
+Dialogue: 0,0:03:48.16,0:03:50.62,Main Dialogue,Kadomon,0,0,0,,Hein? Que dinheiro estranho é esse?
+Dialogue: 0,0:03:50.62,0:03:52.75,Main Dialogue,Kadomon,0,0,0,,Não usamos isso aqui em Lugunica.
+Dialogue: 0,0:03:53.17,0:03:55.25,Main Dialogue,Kadomon,0,0,0,,Isso quer dizer que você está quebrado, não é?
+Dialogue: 0,0:03:55.25,0:03:58.17,Main Dialogue,Kadomon,0,0,0,,Suma daqui! Não atrapalhe os meus negócios!
+Dialogue: 0,0:03:59.09,0:04:00.76,Main Dialogue,Subaru,0,0,0,,Não tem jeito...
+Dialogue: 0,0:04:01.22,0:04:04.34,Main Dialogue,Subaru,0,0,0,,Eu vou ter que andar por aí \Ncoletando informações primeiro.
+Dialogue: 0,0:04:13.52,0:04:15.44,Main Dialogue,Lizard,0,0,0,,Este lugar é apenas para semi-humanos.
+Dialogue: 0,0:04:18.86,0:04:21.36,Main Dialogue,Subaru,0,0,0,,Ai! Não consigo... enxergar—
+Dialogue: 0,0:04:29.91,0:04:31.58,Main Dialogue,Subaru,0,0,0,,Será que é assim que as coisas vão ser?
+Dialogue: 0,0:04:31.58,0:04:34.08,Main Dialogue,Subaru,0,0,0,,Não me invocaram em um mundo paralelo?!
+Dialogue: 0,0:04:34.08,0:04:36.92,Main Dialogue,Subaru,0,0,0,,Onde é que enfiaram o meu\N papel de protagonista?!
+Dialogue: 0,0:04:37.33,0:04:38.25,Main Dialogue,,0,0,0,,Droga.
+Dialogue: 0,0:04:45.05,0:04:45.30,sign_7096_50__Phone_Menu_,Text,0,0,0,,[Menu Principal]
+Dialogue: 0,0:04:45.05,0:04:45.30,sign_6835_51__1_Contatos__2_P,Text,0,0,0,,(1)Contatos\N(2)Pesquisa em Grupos\N(3)Abreviações\N(4)Novos Contatos
+Dialogue: 0,0:04:45.30,0:04:48.30,sign_7096_50_Contacts,Text,0,0,0,,[Contatos]
+Dialogue: 0,0:04:45.30,0:04:48.30,sign_7096_51_City_Hall__Dad__,Text,0,0,0,,Prefeitura \NPai \NMãe \NPizza
+Dialogue: 0,0:04:46.84,0:04:48.30,Main Dialogue,Subaru,0,0,0,,Meu telefone ainda funciona...
+Dialogue: 0,0:04:48.30,0:04:49.22,sign_7174_55_Out_of_Range,Text,0,0,0,,Sem sinal
+Dialogue: 0,0:04:49.68,0:04:52.02,Main Dialogue,Subaru,0,0,0,,Mas do que adianta se está sem sinal?!
+Dialogue: 0,0:04:52.43,0:04:55.44,Main Dialogue,Subaru,0,0,0,,E meu equipamento inicial é muito fraco!
+Dialogue: 0,0:04:55.44,0:04:57.69,Main Dialogue,Subaru,0,0,0,,Vocês precisam de um plano social bem melhor
+Dialogue: 0,0:04:57.69,0:05:00.27,Main Dialogue,,0,0,0,,para agradar pessoas da\N geração digital, como eu!
+Dialogue: 0,0:05:00.27,0:05:03.15,Main Dialogue,Subaru,0,0,0,,Nem me deram a Excalibur ou algo do tipo!
+Dialogue: 0,0:05:05.70,0:05:10.12,Main Dialogue,Subaru,0,0,0,,E além disso, se me invocaram aqui,\N cadê a garota bonita que me invocou?
+Dialogue: 0,0:05:10.12,0:05:12.37,Main Dialogue,Subaru,0,0,0,,Será que ela me invocou aqui\N só para me largar sozinho?
+Dialogue: 0,0:05:12.91,0:05:16.58,Main Dialogue,Subaru,0,0,0,,Ah, ela finalmente chegou?\N A garota bonita que me invocou... aqui...
+Dialogue: 0,0:05:19.50,0:05:21.71,Main Dialogue,Kan,0,0,0,,O que diabos você está falando?
+Dialogue: 0,0:05:21.71,0:05:24.63,Main Dialogue,Chin,0,0,0,,Se não quiser se machucar,\N nos dê tudo que você tem!
+Dialogue: 0,0:05:24.63,0:05:27.30,Main Dialogue,Subaru,0,0,0,,Droga, esse é um evento obrigatório...
+Dialogue: 0,0:05:27.63,0:05:29.68,Main Dialogue,Felt,0,0,0,,Com licença, com licença!
+Dialogue: 0,0:05:29.68,0:05:31.51,Main Dialogue,Felt,0,0,0,,Vocês aí!
+Dialogue: 0,0:05:31.51,0:05:32.93,Main Dialogue,Felt,0,0,0,,Saiam da minha frente!
+Dialogue: 0,0:05:33.64,0:05:34.93,Main Dialogue,Subaru,0,0,0,,Finalmente!
+Dialogue: 0,0:05:34.93,0:05:37.77,Main Dialogue,,0,0,0,,{\i1}Essa{\i0} é a garota bonita que me invocou aqui?!
+Dialogue: 0,0:05:40.15,0:05:43.65,Main Dialogue,Felt,0,0,0,,Invocar? Não sei do que você está\N falando, mas eu estou ocupada!
+Dialogue: 0,0:05:43.65,0:05:45.78,Main Dialogue,Felt,0,0,0,,Desculpe! Viva bastante!
+Dialogue: 0,0:05:49.11,0:05:51.41,Main Dialogue,Subaru,0,0,0,,Ei, espera aí? Como assim?!
+Dialogue: 0,0:05:53.70,0:05:57.16,Main Dialogue,Subaru,0,0,0,,Ei, não tem nenhuma chance de isso ter feito vocês\N se sentirem menos hostis contra mim, por acaso?
+Dialogue: 0,0:05:57.16,0:05:59.29,Main Dialogue,Ton,0,0,0,,Na verdade, agora estou irritado\N e isso deixou a situação ainda pior.
+Dialogue: 0,0:05:59.29,0:06:00.51,Main Dialogue,Subaru,0,0,0,,Sim, obviamente...
+Dialogue: 0,0:06:00.83,0:06:02.88,Italics Dialogue,Subaru,0,0,0,,Acalme-se, Natsuki Subaru.
+Dialogue: 0,0:06:02.88,0:06:04.88,Italics Dialogue,Subaru,0,0,0,,Desde os tempos antigos, a regra é que
+Dialogue: 0,0:06:04.88,0:06:07.47,Italics Dialogue,,0,0,0,,alguém invocado em um mundo paralelo\N possuirá poderes sobrenaturais!
+Dialogue: 0,0:06:07.47,0:06:12.18,Italics Dialogue,Subaru,0,0,0,,Eu vou esmagar estes caras e usá-los\N como fonte do meu futuro brilhante!
+Dialogue: 0,0:06:12.18,0:06:14.18,Main Dialogue,Subaru,0,0,0,,Seus sacos de EXP!
+Dialogue: 0,0:06:20.31,0:06:21.81,Main Dialogue,Subaru,0,0,0,,É a primeira vez que dou um soco em alguém.
+Dialogue: 0,0:06:21.81,0:06:24.40,Main Dialogue,Subaru,0,0,0,,Não esperava que isso doeria\N tanto assim {\i1}em mim{\i0}...
+Dialogue: 0,0:06:24.40,0:06:27.78,Main Dialogue,Subaru,0,0,0,,Mas este mundo foi formado\N para que eu fosse forte!
+Dialogue: 0,0:06:27.78,0:06:31.28,Main Dialogue,Subaru,0,0,0,,Estou fervendo de adrenalina!\N Essa tá no papo!
+Dialogue: 0,0:06:32.66,0:06:35.16,Main Dialogue,Subaru,0,0,0,,Desculpe-me! Foi tudo culpa minha! \NMe perdoe! Tenha piedade!
+Dialogue: 0,0:06:43.75,0:06:46.34,Main Dialogue,Kan,0,0,0,,Está brincando com a gente, é?! \NMorra, seu verme!
+Dialogue: 0,0:06:51.43,0:06:53.64,Main Dialogue,Chin,0,0,0,,E não vá achando que isso não vai doer!
+Dialogue: 0,0:07:01.60,0:07:02.77,Main Dialogue,Emilia,0,0,0,,Já chega.
+Dialogue: 0,0:07:16.24,0:07:18.12,Main Dialogue,Chin,0,0,0,,Quem é você?!
+Dialogue: 0,0:07:18.12,0:07:19.96,Main Dialogue,Emilia,0,0,0,,Parem agora mesmo e eu ignorarei isso.
+Dialogue: 0,0:07:19.96,0:07:22.88,Main Dialogue,Emilia,0,0,0,,Então simplesmente \Ndevolvam-me o que roubaram.
+Dialogue: 0,0:07:28.84,0:07:30.26,Main Dialogue,Ton,0,0,0,,O que roubamos?
+Dialogue: 0,0:07:30.26,0:07:32.47,Main Dialogue,Emilia,0,0,0,,Sim, por favor.\N É importante para mim.
+Dialogue: 0,0:07:32.47,0:07:35.93,Main Dialogue,Emilia,0,0,0,,Não me importo com as outras coisas,\N mas não posso deixá-los ficar com aquilo.
+Dialogue: 0,0:07:35.93,0:07:37.85,Main Dialogue,Emilia,0,0,0,,Sejam honestos e me devolvam, por favor.
+Dialogue: 0,0:07:38.14,0:07:40.60,Main Dialogue,Ton,0,0,0,,Você não veio aqui salvar esse moleque?
+Dialogue: 0,0:07:41.19,0:07:42.85,Main Dialogue,Emilia,0,0,0,,Mas que roupas estranhas...
+Dialogue: 0,0:07:42.85,0:07:46.40,Main Dialogue,Emilia,0,0,0,,Se me perguntarem se tenho alguma \Nligação a ele, eu diria que não.
+Dialogue: 0,0:07:47.11,0:07:49.11,Main Dialogue,Ton,0,0,0,,Então não temos nada a tratar com você!
+Dialogue: 0,0:07:49.11,0:07:51.61,Main Dialogue,Ton,0,0,0,,Se alguém roubou algo seu, foi aquela \Npirralha que acabou de passar por aqui!
+Dialogue: 0,0:07:51.61,0:07:54.03,Main Dialogue,Kan,0,0,0,,Sim! Por ali!\N Ela foi por essa direção!
+Dialogue: 0,0:07:54.66,0:07:57.70,Main Dialogue,Emilia,0,0,0,,Hum... Eles não parecem estar mentindo...
+Dialogue: 0,0:07:57.70,0:07:58.91,Main Dialogue,Emilia,0,0,0,,Eu preciso ir atrás dela!
+Dialogue: 0,0:08:03.33,0:08:05.58,Main Dialogue,Emilia,0,0,0,,Mas independente disso...
+Dialogue: 0,0:08:05.92,0:08:07.88,Main Dialogue,Emilia,0,0,0,,Não posso ignorar o que está acontecendo aqui.
+Dialogue: 0,0:08:14.30,0:08:15.47,Main Dialogue,Subaru,0,0,0,,Magia?
+Dialogue: 0,0:08:15.47,0:08:17.64,Main Dialogue,Chin,0,0,0,,Nos provocando, é?!
+Dialogue: 0,0:08:18.26,0:08:20.85,Main Dialogue,Chin,0,0,0,,Não me importa se você usa\N magia! Eu vou te matar!
+Dialogue: 0,0:08:20.85,0:08:23.52,Main Dialogue,Chin,0,0,0,,Você acha que consegue vencer\N numa luta contra dois?! Hein?!
+Dialogue: 0,0:08:23.94,0:08:26.81,Main Dialogue,Emilia,0,0,0,,Você está certo. Dois contra\N um seria meio injusto.
+Dialogue: 0,0:08:26.81,0:08:30.19,Main Dialogue,Puck,0,0,0,,Dois contra dois tornaria isso mais justo.
+Dialogue: 0,0:08:36.16,0:08:38.33,Main Dialogue,Ton,0,0,0,,Você é praticante de artes espirituais?
+Dialogue: 0,0:08:38.33,0:08:41.45,Main Dialogue,Emilia,0,0,0,,Isso mesmo. Desistam agora \Ne eu não irei atrás de vocês.
+Dialogue: 0,0:08:41.45,0:08:43.37,Main Dialogue,Emilia,0,0,0,,Andem logo. Eu estou com pressa.
+Dialogue: 0,0:08:43.37,0:08:46.88,Main Dialogue,Chin,0,0,0,,Sua vadia! Da próxima vez que\N te ver, eu não vou pegar leve!
+Dialogue: 0,0:08:46.88,0:08:49.75,Main Dialogue,Puck,0,0,0,,Faça algo com ela e eu vou perseguir \Nvocê e seus descendentes para sempre.
+Dialogue: 0,0:08:49.75,0:08:52.13,Main Dialogue,Puck,0,0,0,,Não é como se você terá \Ndescendentes se eu fizer isso.
+Dialogue: 0,0:08:57.68,0:08:59.47,Main Dialogue,Subaru,0,0,0,,Você me salvou. Obrigado.
+Dialogue: 0,0:08:59.47,0:09:00.56,Main Dialogue,Emilia,0,0,0,,Não se mova.
+Dialogue: 0,0:09:05.89,0:09:08.90,Main Dialogue,Emilia,0,0,0,,Viu só? Você desviou o olhar porque\N está com a consciência pesada!
+Dialogue: 0,0:09:08.90,0:09:11.15,Main Dialogue,Emilia,0,0,0,,Parece que acertei mesmo o meu julgamento.
+Dialogue: 0,0:09:11.15,0:09:12.69,Main Dialogue,Puck,0,0,0,,Você tem certeza?
+Dialogue: 0,0:09:12.69,0:09:15.61,Main Dialogue,,0,0,0,,Eu acho que foi somente uma\N reação masculina instintiva.
+Dialogue: 0,0:09:15.61,0:09:17.74,Main Dialogue,Puck,0,0,0,,Eu não senti nenhuma malícia na reação dele.
+Dialogue: 0,0:09:17.74,0:09:19.53,Main Dialogue,Emilia,0,0,0,,Fique quieto, Pack.
+Dialogue: 0,0:09:19.53,0:09:22.83,Main Dialogue,Emilia,0,0,0,,Você sabe quem roubou o meu brasão, não sabe?
+Dialogue: 0,0:09:23.25,0:09:26.96,Main Dialogue,Subaru,0,0,0,,Ah, desculpe, mas não tenho ideia.
+Dialogue: 0,0:09:31.21,0:09:32.92,Main Dialogue,Emilia,0,0,0,,Hein? Espere, não pode ser!
+Dialogue: 0,0:09:33.38,0:09:36.38,Main Dialogue,Emilia,0,0,0,,Será que fiz tudo isso à toa?
+Dialogue: 0,0:09:37.18,0:09:39.76,Main Dialogue,Subaru,0,0,0,,Você provavelmente deveria\N correr atrás dela, moça.
+Dialogue: 0,0:09:40.35,0:09:41.51,Main Dialogue,Subaru,0,0,0,,Eu poderia... te ajudar...
+Dialogue: 0,0:09:42.06,0:09:44.68,Main Dialogue,Puck,0,0,0,,Ah, você não deveria tentar se levantar...
+Dialogue: 0,0:09:44.68,0:09:45.98,Main Dialogue,Puck,0,0,0,,O que vamos fazer?
+Dialogue: 0,0:09:45.98,0:09:47.23,Main Dialogue,Emilia,0,0,0,,Não é problema nosso.
+Dialogue: 0,0:09:47.23,0:09:49.52,Main Dialogue,Emilia,0,0,0,,Ele não vai morrer. Deixe-o aí.
+Dialogue: 0,0:09:49.52,0:09:50.27,Main Dialogue,Puck,0,0,0,,Mesmo?
+Dialogue: 0,0:09:50.27,0:09:51.27,Main Dialogue,Emilia,0,0,0,,Sim, mesmo.
+Dialogue: 0,0:09:51.27,0:09:53.48,Main Dialogue,Puck,0,0,0,,Você diz isso, mas aposto que ainda irá ajudá-lo.
+Dialogue: 0,0:09:53.48,0:09:54.53,Main Dialogue,Emilia,0,0,0,,Não vou não!
+Dialogue: 0,0:09:54.53,0:09:55.82,Main Dialogue,Puck,0,0,0,,Sim, claro.
+Dialogue: 0,0:09:55.82,0:09:58.86,Main Dialogue,Emilia,0,0,0,,Com certeza não!\N Eu não vou ajudá-lo!
+Dialogue: 0,0:09:59.53,0:10:02.66,Italics Dialogue,Subaru,0,0,0,,Ela é bonita mesmo quando está irritada.
+Dialogue: 0,0:10:03.29,0:10:05.83,Italics Dialogue,Subaru,0,0,0,,Como esperado de um mundo paralelo da fantasia...
+Dialogue: 0,0:10:13.42,0:10:16.34,Main Dialogue,Subaru,0,0,0,,Minha cabeça está no colo de alguém?
+Dialogue: 0,0:10:16.34,0:10:17.34,Main Dialogue,Emilia,0,0,0,,Você está acordado?
+Dialogue: 0,0:10:17.34,0:10:20.43,Main Dialogue,Subaru,0,0,0,,Não sabia que garotas eram tão peludas assim...
+Dialogue: 0,0:10:20.43,0:10:22.26,Main Dialogue,Subaru,0,0,0,,Espera aí, tem algo de errado!
+Dialogue: 0,0:10:24.97,0:10:27.06,Main Dialogue,Puck,0,0,0,,Foi apenas um plano que tivemos,
+Dialogue: 0,0:10:27.06,0:10:30.06,Main Dialogue,,0,0,0,,para que você ficasse feliz ao acordar.
+Dialogue: 0,0:10:30.06,0:10:32.19,Main Dialogue,Subaru,0,0,0,,Em primeiro lugar, não \Nfale com a voz fina assim!
+Dialogue: 0,0:10:32.19,0:10:34.82,Main Dialogue,Subaru,0,0,0,,Ninguém no mundo confundiria \Num gato com a heroína principal!
+Dialogue: 0,0:10:34.82,0:10:39.11,Main Dialogue,Puck,0,0,0,,Ah, ter ficado grande valeu\N a pena por ter te visto tão feliz.
+Dialogue: 0,0:10:39.11,0:10:41.32,Main Dialogue,Subaru,0,0,0,,Eu não estou feliz!
+Dialogue: 0,0:10:44.08,0:10:45.83,Main Dialogue,Subaru,0,0,0,,Desculpem-me por isso.
+Dialogue: 0,0:10:45.83,0:10:48.75,Main Dialogue,Subabu,0,0,0,,Você ficou comigo esse tempo \Ntodo que eu estive inconsciente...
+Dialogue: 0,0:10:48.75,0:10:50.12,Main Dialogue,Emilia,0,0,0,,Não se confunda.
+Dialogue: 0,0:10:50.12,0:10:52.79,Main Dialogue,Emilia,0,0,0,,Eu só fiquei aqui porque queria\N te perguntar algumas coisas.
+Dialogue: 0,0:10:53.17,0:10:58.13,Main Dialogue,Emilia,0,0,0,,Tratar os seus ferimentos e\N fazer do Pack seu travesseiro
+Dialogue: 0,0:10:58.13,0:10:59.63,Main Dialogue,Emilia,0,0,0,,foi para o meu próprio benefício.
+Dialogue: 0,0:10:59.63,0:11:01.55,Main Dialogue,Emilia,0,0,0,,Porque você precisa me retribuir de acordo.
+Dialogue: 0,0:11:01.55,0:11:05.14,Main Dialogue,Subaru,0,0,0,,Para um favorzinho desses, você realmente\N fez parecer que te devo muita coisa.
+Dialogue: 0,0:11:05.51,0:11:06.85,Main Dialogue,Emilia,0,0,0,,Nada disso.
+Dialogue: 0,0:11:06.85,0:11:10.19,Main Dialogue,Emilia,0,0,0,,Você tem alguma ideia de quem\N roubou meu brasão, não tem?
+Dialogue: 0,0:11:10.19,0:11:11.40,Main Dialogue,Subaru,0,0,0,,Brasão?
+Dialogue: 0,0:11:11.40,0:11:14.94,Main Dialogue,,0,0,0,,Você diz um daqueles distintivos\N que mostra a sua afiliação?
+Dialogue: 0,0:11:14.94,0:11:17.74,Main Dialogue,Emilia,0,0,0,,Ele tem uma joia no centro
+Dialogue: 0,0:11:17.74,0:11:19.78,Main Dialogue,Emilia,0,0,0,,e é mais ou menos desse tamanho.
+Dialogue: 0,0:11:20.07,0:11:23.66,Main Dialogue,Subaru,0,0,0,,Desculpe, mas não importa quantas \Nvezes você pergunte, eu não sei mesmo.
+Dialogue: 0,0:11:23.66,0:11:25.99,Main Dialogue,Emilia,0,0,0,,Entendo. Bem, fazer o quê.
+Dialogue: 0,0:11:25.99,0:11:29.79,Main Dialogue,Emilia,0,0,0,,Mas você me deu a informação \Nde que você não sabe de nada,
+Dialogue: 0,0:11:29.79,0:11:32.54,Main Dialogue,Emilia,0,0,0,,você me respondeu, em\N troca de eu ter tratado você.
+Dialogue: 0,0:11:32.54,0:11:33.25,Main Dialogue,subaru,0,0,0,,Hein?
+Dialogue: 0,0:11:33.25,0:11:35.67,Main Dialogue,Emilia,0,0,0,,Bem, estou com pressa, então já estou indo.
+Dialogue: 0,0:11:35.67,0:11:37.46,Main Dialogue,Emilia,0,0,0,,Seus ferimentos já devem estar melhores,
+Dialogue: 0,0:11:37.46,0:11:41.59,Main Dialogue,Emilia,0,0,0,,mas da próxima vez, não faça algo perigoso\N como entrar em um beco destes sozinho.
+Dialogue: 0,0:11:41.59,0:11:43.26,Main Dialogue,Emilia,0,0,0,,Não estou preocupada.\N Só estou te alertando.
+Dialogue: 0,0:11:43.26,0:11:47.39,Main Dialogue,Emilia,0,0,0,,Se isso acontecer novamente, não \Nverei nenhum benefício em te salvar,
+Dialogue: 0,0:11:47.39,0:11:48.97,Main Dialogue,Emilia,0,0,0,,então não espere que eu te ajude.
+Dialogue: 0,0:11:50.98,0:11:53.85,Main Dialogue,Puck,0,0,0,,Peço desculpas em nome dela.\N Ela é tão insincera.
+Dialogue: 0,0:11:53.85,0:11:55.65,Main Dialogue,Puck,0,0,0,,Não a leve mal.
+Dialogue: 0,0:12:00.32,0:12:02.11,Main Dialogue,Subaru,0,0,0,,Insincera?
+Dialogue: 0,0:12:02.53,0:12:04.45,Main Dialogue,Subaru,0,0,0,,Acho que isso vai além disso.
+Dialogue: 0,0:12:04.45,0:12:07.12,Main Dialogue,Subaru,0,0,0,,Ela estava com tanta pressa para\N achar o que roubaram dela
+Dialogue: 0,0:12:07.12,0:12:08.95,Main Dialogue,Subaru,0,0,0,,e ainda assim parou para me ajudar.
+Dialogue: 0,0:12:08.95,0:12:12.50,Main Dialogue,Subaru,0,0,0,,E ela até mesmo inventou essa desculpa esfarrapada\N para eu achar que não devo nada a ela,
+Dialogue: 0,0:12:12.50,0:12:14.67,Main Dialogue,Subaru,0,0,0,,apesar de eu ser um completo estranho.
+Dialogue: 0,0:12:14.67,0:12:16.21,Main Dialogue,Subaru,0,0,0,,Qualquer um que vive dessa forma...
+Dialogue: 0,0:12:19.80,0:12:22.30,Main Dialogue,Subaru,0,0,0,,vai acabar desperdiçando toda a sua vida!
+Dialogue: 0,0:12:23.51,0:12:25.22,Main Dialogue,Subaru,0,0,0,,Ei! Espere aí!
+Dialogue: 0,0:12:27.26,0:12:31.85,Main Dialogue,Emilia,0,0,0,,O que foi? Só pra você saber, posso\N ficar com você só mais um pouco.
+Dialogue: 0,0:12:31.85,0:12:33.60,Main Dialogue,Subaru,0,0,0,,Sinto que você está sendo um pouco gentil...
+Dialogue: 0,0:12:33.60,0:12:35.73,Main Dialogue,Subaru,0,0,0,,Deixe isso para lá. Você perdeu\N algo importante, não perdeu?
+Dialogue: 0,0:12:35.73,0:12:36.98,Main Dialogue,Subaru,0,0,0,,Deixe-me te ajudar.
+Dialogue: 0,0:12:37.40,0:12:39.32,Main Dialogue,Emilia,0,0,0,,Mas você disse que não sabia de nada...
+Dialogue: 0,0:12:39.32,0:12:41.15,Main Dialogue,Subaru,0,0,0,,Mas eu lembro do rosto dela, pelo menos.
+Dialogue: 0,0:12:41.15,0:12:42.36,Main Dialogue,Subaru,0,0,0,,Se eu vê-la novamente, eu saberei!
+Dialogue: 0,0:12:46.41,0:12:47.95,Main Dialogue,Emilia,0,0,0,,Você é muito estranho...
+Dialogue: 0,0:12:48.28,0:12:50.37,Main Dialogue,Emilia,0,0,0,,Só para que saiba, não posso \Nfazer nada para te agradecer.
+Dialogue: 0,0:12:50.37,0:12:52.20,Main Dialogue,Subaru,0,0,0,,Eu não preciso disso.
+Dialogue: 0,0:12:52.20,0:12:55.17,Main Dialogue,Subaru,0,0,0,,Eu quero te agradecer. É por\N isso que quero te ajudar.
+Dialogue: 0,0:12:55.17,0:12:57.29,Main Dialogue,Emilia,0,0,0,,Eu não fiz nada que você\N precisaria me agradecer.
+Dialogue: 0,0:12:57.29,0:13:01.13,Main Dialogue,Emilia,0,0,0,,Eu já te disse, já recebi meu \Npagamento por tratar de suas feridas.
+Dialogue: 0,0:13:01.55,0:13:02.67,Main Dialogue,Subaru,0,0,0,,Então...
+Dialogue: 0,0:13:03.09,0:13:05.47,Main Dialogue,Subaru,0,0,0,,Eu vou te ajudar pelo meu\N próprio bem também.
+Dialogue: 0,0:13:05.47,0:13:07.85,Main Dialogue,Subaru,0,0,0,,Meu objetivo é... Bem, vejamos...
+Dialogue: 0,0:13:08.18,0:13:10.80,Main Dialogue,Subaru,0,0,0,,Já sei! Fazer uma boa ação por dia!
+Dialogue: 0,0:13:14.18,0:13:17.56,Main Dialogue,Puck,0,0,0,,Não estou sentindo malícia alguma. Eu acho\N que você deveria aceitar a oferta dele.
+Dialogue: 0,0:13:18.15,0:13:21.07,Main Dialogue,Puck,0,0,0,,Quanto mais "escudos" entre \Nesses bárbaros e você, melhor...
+Dialogue: 0,0:13:21.07,0:13:23.74,Main Dialogue,Subaru,0,0,0,,É para {\i1}isso{\i0} que você quer contar comigo?!
+Dialogue: 0,0:13:23.74,0:13:26.61,Main Dialogue,Emilia,0,0,0,,Eu estava falando sério, no entanto.\N Não posso fazer nada para te agradecer.
+Dialogue: 0,0:13:26.61,0:13:29.28,Main Dialogue,Subaru,0,0,0,,Sem problemas. Pode deixar comigo!
+Dialogue: 0,0:13:45.92,0:13:51.01,Main Dialogue,Subaru,0,0,0,,Eu sei o que disse, mas esta cidade não é\N grande demais para procurarmos algo assim?
+Dialogue: 0,0:13:51.31,0:13:53.35,Main Dialogue,Emilia,0,0,0,,Esta é a capital de Lugunica.
+Dialogue: 0,0:13:53.35,0:13:56.27,Main Dialogue,Emilia,0,0,0,,Você sequer sabe isso, hum...
+Dialogue: 0,0:13:56.27,0:13:59.36,Main Dialogue,Puck,0,0,0,,Isso mesmo. Ainda não \Nperguntamos o seu nome.
+Dialogue: 0,0:13:59.36,0:14:01.02,Main Dialogue,Puck,0,0,0,,Que tal nos apresentarmos?
+Dialogue: 0,0:14:01.02,0:14:02.52,Main Dialogue,Subaru,0,0,0,,Ah, é, você está certo.
+Dialogue: 0,0:14:02.52,0:14:04.99,Main Dialogue,Subaru,0,0,0,,Eu começo, então.
+Dialogue: 0,0:14:05.99,0:14:08.07,Main Dialogue,Subaru,0,0,0,,Meu nome é Natsuki Subaru.
+Dialogue: 0,0:14:08.07,0:14:11.03,Main Dialogue,Subaru,0,0,0,,Além de não ter noção de nada\N aqui, estou totalmente falido!
+Dialogue: 0,0:14:11.03,0:14:11.95,Main Dialogue,Subaru,0,0,0,,Prazer em conhecê-los!
+Dialogue: 0,0:14:11.95,0:14:14.62,Main Dialogue,Puck,0,0,0,,Falando assim, você parece\N mesmo totalmente perdido.
+Dialogue: 0,0:14:15.45,0:14:19.83,Main Dialogue,Puck,0,0,0,,Eu sou o Pack! Prazer em conhecê-lo!
+Dialogue: 0,0:14:20.96,0:14:24.84,Main Dialogue,Emilia,0,0,0,,É bem incomum ver alguém que consegue\N tocar em um espírito tão casualmente.
+Dialogue: 0,0:14:24.84,0:14:25.88,Main Dialogue,Emilia,0,0,0,,De onde você é?
+Dialogue: 0,0:14:26.47,0:14:30.05,Main Dialogue,Subaru,0,0,0,,Bem, seguindo o padrão,\N de um país insular ao leste.
+Dialogue: 0,0:14:30.76,0:14:34.14,Main Dialogue,Emilia,0,0,0,,Lugunica é a nação mais ao leste\N no nosso mapa continental.
+Dialogue: 0,0:14:34.56,0:14:36.52,Main Dialogue,Emilia,0,0,0,,Não há nada ao leste daqui.
+Dialogue: 0,0:14:36.52,0:14:39.02,Main Dialogue,Subaru,0,0,0,,Tá brincando? Não há nada ao leste?
+Dialogue: 0,0:14:39.02,0:14:43.32,Main Dialogue,Emilia,0,0,0,,Você não sabe onde você \Nestá, você não tem dinheiro,
+Dialogue: 0,0:14:43.32,0:14:46.07,Main Dialogue,Emilia,0,0,0,,você não sabe ler e não tem \Nninguém que possa te ajudar.
+Dialogue: 0,0:14:46.07,0:14:49.36,Main Dialogue,Emilia,0,0,0,,Você talvez esteja em uma situação\N ainda pior que a minha, hum...
+Dialogue: 0,0:14:49.36,0:14:51.53,Main Dialogue,Emilia,0,0,0,,É... Subaru?
+Dialogue: 0,0:14:53.45,0:14:55.25,Main Dialogue,Subaru,0,0,0,,Isso, esse é o meu nome.
+Dialogue: 0,0:14:55.66,0:14:59.08,Main Dialogue,Puck,0,0,0,,Mas quando eu te olho, você\N parece ter um bom físico.
+Dialogue: 0,0:14:59.08,0:15:01.13,Main Dialogue,Subaru,0,0,0,,Bem, eu me exercito todos os dias.
+Dialogue: 0,0:15:01.13,0:15:05.63,Main Dialogue,Subaru,0,0,0,,Para um hikikomori como eu,\N isso é o mínimo que devo fazer.
+Dialogue: 0,0:15:05.63,0:15:08.63,Main Dialogue,Emilia,0,0,0,,Não sei direito o que é um "hikikomori",
+Dialogue: 0,0:15:08.63,0:15:11.43,Main Dialogue,Emilia,0,0,0,,mas isso quer dizer que você vem\N de uma família nobre, não é?
+Dialogue: 0,0:15:11.72,0:15:12.89,Main Dialogue,Subaru,0,0,0,,E-Ei—
+Dialogue: 0,0:15:12.89,0:15:15.56,Main Dialogue,Emilia,0,0,0,,Os seus dedos também.\N Eles são muito bonitos.
+Dialogue: 0,0:15:15.56,0:15:17.85,Main Dialogue,Emilia,0,0,0,,Eles são prova de que você não\N vive a vida de um plebeu.
+Dialogue: 0,0:15:18.35,0:15:21.69,Main Dialogue,Emilia,0,0,0,,E seus músculos não se parecem com \Nmúsculos que você ganha trabalhando.
+Dialogue: 0,0:15:22.69,0:15:25.77,Main Dialogue,Subaru,0,0,0,,Hum, de qualquer forma,\N eu já sei o nome do seu gato,
+Dialogue: 0,0:15:25.77,0:15:27.57,Main Dialogue,Subaru,0,0,0,,mas você ainda não disse o seu.
+Dialogue: 0,0:15:27.57,0:15:28.69,Main Dialogue,Emilia,0,0,0,,Meu nome?
+Dialogue: 0,0:15:28.69,0:15:29.57,Main Dialogue,Subaru,0,0,0,,Sim.
+Dialogue: 0,0:15:32.46,0:15:33.83,Main Dialogue,Emilia,0,0,0,,Eu me chamo...
+Dialogue: 0,0:15:37.70,0:15:38.75,Main Dialogue,Emilia,0,0,0,,Satella.
+Dialogue: 0,0:15:39.79,0:15:43.33,Main Dialogue,Emilia,0,0,0,,Eu não tenho nome de família.\N Você pode me chamar de Satella.
+Dialogue: 0,0:15:43.79,0:15:46.63,Main Dialogue,Subaru,0,0,0,,Entendo... Satella...
+Dialogue: 0,0:15:47.67,0:15:49.01,Main Dialogue,Subaru,0,0,0,,É um belo nome.
+Dialogue: 0,0:15:53.51,0:15:55.05,Main Dialogue,Puck,0,0,0,,Você tem gostos terríveis.
+Dialogue: 0,0:15:56.76,0:15:59.48,Main Dialogue,Subaru,0,0,0,,Certo, então vamos voltar a perguntar por aí!
+Dialogue: 0,0:16:01.77,0:16:02.90,Main Dialogue,Emilia,0,0,0,,Ei, Subaru...
+Dialogue: 0,0:16:03.69,0:16:06.40,Main Dialogue,Emilia,0,0,0,,Você também tem a impressão de\N que aquela criança está perdida?
+Dialogue: 0,0:16:10.61,0:16:12.86,Main Dialogue,Subaru,0,0,0,,Sim, mas e as nossas buscas?
+Dialogue: 0,0:16:12.86,0:16:16.20,Main Dialogue,Emilia,0,0,0,,Isso é importante também, se ela \Nestiver perdida, nós temos que fazer algo.
+Dialogue: 0,0:16:19.16,0:16:21.66,Main Dialogue,Subaru,0,0,0,,Eu não posso falar nada \Ndepois que você me salvou,
+Dialogue: 0,0:16:21.66,0:16:24.08,Main Dialogue,Subaru,0,0,0,,mas você entende a posição em que estamos?
+Dialogue: 0,0:16:24.50,0:16:25.33,Main Dialogue,Emilia,0,0,0,,Mas...
+Dialogue: 0,0:16:26.42,0:16:29.76,Main Dialogue,Emilia,0,0,0,,Ela está chorando!\N Não está, Subaru?
+Dialogue: 0,0:16:31.05,0:16:33.47,Main Dialogue,Emilia,0,0,0,,Se não puder me ajudar nisso, tudo bem.
+Dialogue: 0,0:16:33.47,0:16:35.39,Main Dialogue,Emilia,0,0,0,,Obrigada por sua ajuda, Subaru.
+Dialogue: 0,0:16:35.80,0:16:37.93,Main Dialogue,Emilia,0,0,0,,Darei um jeito eu mesma,
+Dialogue: 0,0:16:37.93,0:16:40.18,Main Dialogue,Emilia,0,0,0,,depois de ajudar essa garotinha.
+Dialogue: 0,0:16:45.56,0:16:48.23,Main Dialogue,Emilia,0,0,0,,Desculpe não ser quem\N você está procurando.
+Dialogue: 0,0:16:48.23,0:16:49.82,Main Dialogue,Emilia,0,0,0,,Mas o que houve?
+Dialogue: 0,0:16:49.82,0:16:52.32,Main Dialogue,Emilia,0,0,0,,Por que você não está \Ncom a mamãe e o papai?
+Dialogue: 0,0:16:56.99,0:16:59.70,Main Dialogue,Emilia,0,0,0,,Hum, bem... Não chore...
+Dialogue: 0,0:16:59.70,0:17:02.37,Main Dialogue,Emilia,0,0,0,,Eu não vou fazer nada com você, tudo bem?
+Dialogue: 0,0:17:02.37,0:17:06.38,Main Dialogue,Subaru,0,0,0,,Isso na minha mão é uma moedinha\N giza de dez ienes.
+Dialogue: 0,0:17:07.21,0:17:10.67,Main Dialogue,Subaru,0,0,0,,Agora, vou apertá-la bastante.
+Dialogue: 0,0:17:10.67,0:17:13.09,Main Dialogue,Subaru,0,0,0,,Aperta, aperta, aperta... \NAssim mesmo!
+Dialogue: 0,0:17:13.09,0:17:14.68,Main Dialogue,Subaru,0,0,0,,E agora... Olha só!
+Dialogue: 0,0:17:19.60,0:17:23.31,Main Dialogue,Subaru,0,0,0,,E aqui... era onde a \Nmoeda estava escondida.
+Dialogue: 0,0:17:26.15,0:17:27.60,Main Dialogue,Subaru,0,0,0,,Você pode ficar com ela.
+Dialogue: 0,0:17:27.60,0:17:29.73,Main Dialogue,Subaru,0,0,0,,Ela é rara, então cuide bem dela.
+Dialogue: 0,0:17:32.44,0:17:33.78,Main Dialogue,Girl,0,0,0,,Obrigada!
+Dialogue: 0,0:17:34.57,0:17:37.49,Main Dialogue,Subaru,0,0,0,,Entendo. Então você se \Nseparou da sua mãe, não é?
+Dialogue: 0,0:17:37.49,0:17:39.28,Main Dialogue,Subaru,0,0,0,,Bom, vai dar tudo certo.
+Dialogue: 0,0:17:39.91,0:17:42.45,Main Dialogue,Subaru,0,0,0,,Pode deixar comigo e\N com a mocinha aqui.
+Dialogue: 0,0:17:42.45,0:17:44.62,Main Dialogue,Subaru,0,0,0,,Nós vamos encontrá-los em um instante.
+Dialogue: 0,0:17:46.04,0:17:47.50,Main Dialogue,Subaru,0,0,0,,Quando estamos fazendo isso,
+Dialogue: 0,0:17:47.50,0:17:52.34,Main Dialogue,Subaru,0,0,0,,quem não conhece a gente provavelmente acharia\N que somos um casal com uma criança, não é?
+Dialogue: 0,0:17:52.34,0:17:53.21,Main Dialogue,Subaru,0,0,0,,Mas que vergonha.
+Dialogue: 0,0:17:53.21,0:17:57.05,Main Dialogue,Emilia,0,0,0,,Eu te vejo como irmão mais velho dela, no máximo.
+Dialogue: 0,0:17:57.05,0:17:59.43,Main Dialogue,Subaru,0,0,0,,O que te faz pensar que sou\N muito mais novo do que você?!
+Dialogue: 0,0:17:59.43,0:18:01.68,Main Dialogue,Girl,0,0,0,,Ah! Mamãe!
+Dialogue: 0,0:18:03.81,0:18:05.21,Main Dialogue,Girl,0,0,0,,Mamãe!
+Dialogue: 0,0:18:05.77,0:18:07.44,Main Dialogue,Subaru,0,0,0,,Parece que ela encontrou sua mãe.
+Dialogue: 0,0:18:07.44,0:18:09.43,Main Dialogue,Emilia,0,0,0,,Sim. Fico feliz por isso.
+Dialogue: 0,0:18:10.40,0:18:11.40,Main Dialogue,Subaru,0,0,0,,Então...
+Dialogue: 0,0:18:11.69,0:18:14.40,Main Dialogue,Subaru,0,0,0,,Caminhamos um monte,
+Dialogue: 0,0:18:14.40,0:18:18.82,Main Dialogue,Subaru,0,0,0,,mas que benefício você \Nvai dizer que tirou disso?
+Dialogue: 0,0:18:18.82,0:18:23.57,Main Dialogue,Emilia,0,0,0,,Isso é fácil. Agora podemos continuar\N nossas buscas com a consciência limpa, não é?
+Dialogue: 0,0:18:24.12,0:18:26.66,Main Dialogue,Emilia,0,0,0,,De qualquer forma, por que você me ajudou?
+Dialogue: 0,0:18:26.66,0:18:28.08,Main Dialogue,,0,0,0,,Você era contra a ideia.
+Dialogue: 0,0:18:28.37,0:18:30.42,Main Dialogue,Subaru,0,0,0,,Eu podia dizer que queria apenas\N mostrar meu truque de mágica,
+Dialogue: 0,0:18:30.42,0:18:31.92,Main Dialogue,Subaru,0,0,0,,mas isso seria uma mentira.
+Dialogue: 0,0:18:31.92,0:18:35.96,Main Dialogue,Subaru,0,0,0,,Eu te disse, achar o seu brasão \Nvai ser a minha boa ação do dia!
+Dialogue: 0,0:18:36.30,0:18:40.34,Main Dialogue,Emilia,0,0,0,,Como você me ajudou com a garotinha,\N já não fez sua boa ação de hoje?
+Dialogue: 0,0:18:40.34,0:18:42.47,Main Dialogue,Subaru,0,0,0,,Essa resposta foi totalmente lógica!
+Dialogue: 0,0:18:42.47,0:18:45.47,Main Dialogue,Subaru,0,0,0,,Vamos lá, não faz mal fazer mais\N de uma boa ação por dia, não é?
+Dialogue: 0,0:18:45.47,0:18:47.18,Main Dialogue,Subaru,0,0,0,,Eu acabei de fazer a boa \Nação de amanhã também.
+Dialogue: 0,0:18:47.18,0:18:50.06,Main Dialogue,Subaru,0,0,0,,Pretendo fazer todas as boas ações\N da semana inteira de uma só vez!
+Dialogue: 0,0:18:50.94,0:18:54.32,Main Dialogue,Emilia,0,0,0,,Subaru, você é do tipo que se deixar, \Nvai desperdiçar toda a sua vida, não é?
+Dialogue: 0,0:18:54.32,0:18:57.40,Main Dialogue,Subaru,0,0,0,,Você é a última pessoa de \Nquem eu queria escutar isso.
+Dialogue: 0,0:18:57.78,0:18:59.45,Main Dialogue,Emilia,0,0,0,,Só que você não é uma má pessoa.
+Dialogue: 0,0:18:59.45,0:19:01.99,Main Dialogue,Subaru,0,0,0,,Por que está me tratando como \Nse eu fosse mais novo que você?
+Dialogue: 0,0:19:01.99,0:19:04.28,Main Dialogue,Subaru,0,0,0,,Eu duvido que haja uma diferença\N tão grande de idade entre nós.
+Dialogue: 0,0:19:04.74,0:19:07.37,Main Dialogue,Emilia,0,0,0,,Não acho que fazer suposições\N vai te ajudar em algo.
+Dialogue: 0,0:19:08.04,0:19:10.29,Main Dialogue,Emilia,0,0,0,,Eu sou meio-elfa.
+Dialogue: 0,0:19:15.25,0:19:16.84,Main Dialogue,Subaru,0,0,0,,Ah, agora entendo.
+Dialogue: 0,0:19:17.84,0:19:20.76,Main Dialogue,Subaru,0,0,0,,Não é à toa que te achei tão bonita!
+Dialogue: 0,0:19:20.76,0:19:23.51,Main Dialogue,Subaru,0,0,0,,Elfos são sempre bonitos, não são?
+Dialogue: 0,0:19:25.81,0:19:26.77,Main Dialogue,Subaru,0,0,0,,O quê?
+Dialogue: 0,0:19:26.77,0:19:30.77,Main Dialogue,Emilia,0,0,0,,O quê? Bem, digo... Eu sou meio-elfa...
+Dialogue: 0,0:19:30.77,0:19:31.90,Main Dialogue,Subaru,0,0,0,,Sim, eu ouvi.
+Dialogue: 0,0:19:41.86,0:19:43.62,Main Dialogue,Subaru,0,0,0,,Por que você fez isso?
+Dialogue: 0,0:19:43.62,0:19:46.91,Main Dialogue,Puck,0,0,0,,Eu precisava fazer algo por \Ncausa do que eu estava sentindo!
+Dialogue: 0,0:19:46.91,0:19:50.12,Main Dialogue,Subaru,0,0,0,,Eu não vou aceitar você \Nme acertar por conta disso.
+Dialogue: 0,0:19:50.12,0:19:51.62,Main Dialogue,Subaru,0,0,0,,Só que eu vou te perdoar\N porque foi fraquinho.
+Dialogue: 0,0:19:51.62,0:19:54.08,Main Dialogue,Puck,0,0,0,,Eu não te acertei porque \Nestava com raiva ou algo assim.
+Dialogue: 0,0:19:54.08,0:19:55.63,Main Dialogue,Puck,0,0,0,,O oposto, na verdade.
+Dialogue: 0,0:19:56.34,0:19:58.42,Main Dialogue,Emilia,0,0,0,,Subaru, seu néscio!
+Dialogue: 0,0:19:58.63,0:20:01.13,Main Dialogue,Subaru,0,0,0,,"Néscio"? Quem é que chama \Nos outros assim hoje em dia?
+Dialogue: 0,0:20:01.13,0:20:03.39,Main Dialogue,Subaru,0,0,0,,E por que você está me ofendendo?
+Dialogue: 0,0:20:03.39,0:20:04.97,Main Dialogue,Emilia,0,0,0,,Hunf! Que seja!
+Dialogue: 0,0:20:04.97,0:20:08.14,Main Dialogue,Emilia,0,0,0,,Mais importante, temos que \Nvoltar às nossas buscas.
+Dialogue: 0,0:20:09.39,0:20:10.89,Main Dialogue,Subaru,0,0,0,,Ei, espere aí!
+Dialogue: 0,0:20:10.89,0:20:13.77,Main Dialogue,Subaru,0,0,0,,Ficar zanzando por aí sem um\N plano não levará a nada.
+Dialogue: 0,0:20:13.77,0:20:15.40,Main Dialogue,Subaru,0,0,0,,Isso é algo básico em qualquer busca.
+Dialogue: 0,0:20:15.40,0:20:16.61,Main Dialogue,Emilia,0,0,0,,"Algo básico em qualquer busca"?
+Dialogue: 0,0:20:16.61,0:20:18.90,Main Dialogue,Subaru,0,0,0,,Sim. Você procura na \Ncena do crime cem vezes.
+Dialogue: 0,0:20:18.90,0:20:20.86,Main Dialogue,Subaru,0,0,0,,Onde foi que roubaram o seu brasão?
+Dialogue: 0,0:20:21.20,0:20:24.49,Main Dialogue,Subaru,0,0,0,,Pois bem, então parece que o\N crime ocorreu nestas redondezas,
+Dialogue: 0,0:20:24.49,0:20:28.16,Main Dialogue,Subaru,0,0,0,,assim sendo, voltei até esta banca de frutas depois\N de dizer para deixar tudo comigo de modo galante.
+Dialogue: 0,0:20:28.16,0:20:31.50,Main Dialogue,Kadomon,0,0,0,,O quê? Eu achei que ia vender algo,\N mas é só aquele quebrado de novo?
+Dialogue: 0,0:20:31.91,0:20:33.92,Main Dialogue,Subaru,0,0,0,,Você vai {\i1}mesmo{\i0} continuar com isso?
+Dialogue: 0,0:20:33.92,0:20:36.59,Main Dialogue,Subaru,0,0,0,,Não percebeu que já não\N sou mais o mesmo de antes?
+Dialogue: 0,0:20:36.59,0:20:37.84,Main Dialogue,Kadomon,0,0,0,,O quê?
+Dialogue: 0,0:20:37.84,0:20:39.80,Main Dialogue,Subaru,0,0,0,,Veja só quem eu trouxe junto comigo!
+Dialogue: 0,0:20:39.80,0:20:42.22,Main Dialogue,Subaru,0,0,0,,Eu trouxe alguém que pode \Nse tornar um cliente fiel seu!
+Dialogue: 0,0:20:43.01,0:20:44.34,Main Dialogue,Emilia,0,0,0,,Hum, Subaru...
+Dialogue: 0,0:20:44.80,0:20:46.85,Main Dialogue,Emilia,0,0,0,,Você parece ter alguma \Nexpectativa estranha de mim,
+Dialogue: 0,0:20:47.18,0:20:49.52,Main Dialogue,Emilia,0,0,0,,mas eu também não tenho dinheiro algum.
+Dialogue: 0,0:20:49.52,0:20:51.48,Main Dialogue,Subaru,0,0,0,,Hein?! Mesmo?
+Dialogue: 0,0:20:51.48,0:20:56.86,Main Dialogue,Kadomon,0,0,0,,E então, o que você diz agora que eu tenho\N dois quebrados na minha banca, moleque?
+Dialogue: 0,0:20:57.11,0:20:59.61,Main Dialogue,Subaru,0,0,0,,Na verdade, estamos procurando uma pessoa
+Dialogue: 0,0:20:59.61,0:21:02.24,Main Dialogue,,0,0,0,,e queríamos que você \Nrespondesse algumas perguntas...
+Dialogue: 0,0:21:02.24,0:21:05.53,Main Dialogue,Kadomon,0,0,0,,Isso foi um jeito sutil de dizer que não \Ntenho tempo para quebrados como vocês!
+Dialogue: 0,0:21:05.53,0:21:06.87,Main Dialogue,Kadomon,0,0,0,,Deem o fora daqui!
+Dialogue: 0,0:21:06.87,0:21:08.16,Main Dialogue,Girl,0,0,0,,Onii-chan!
+Dialogue: 0,0:21:09.16,0:21:10.87,Main Dialogue,Mom,0,0,0,,Obrigada por me ajudarem mais cedo.
+Dialogue: 0,0:21:10.87,0:21:12.83,Main Dialogue,Subaru,0,0,0,,O que vocês estão fazendo aqui?
+Dialogue: 0,0:21:12.83,0:21:15.87,Main Dialogue,Mom,0,0,0,,Essa é a banca do meu esposo,\N então viemos dar uma passadinha.
+Dialogue: 0,0:21:16.92,0:21:17.79,Main Dialogue,Subaru,0,0,0,,Esposo?
+Dialogue: 0,0:21:22.80,0:21:24.68,Main Dialogue,Kadomon,0,0,0,,Isso, esta é minha garotinha.
+Dialogue: 0,0:21:25.22,0:21:29.01,Main Dialogue,Kadomon,0,0,0,,O quê? Você conhece esses dois quebrados?
+Dialogue: 0,0:21:29.01,0:21:32.22,Main Dialogue,Mom,0,0,0,,Ela se perdeu e eles a \Najudaram a me encontrar.
+Dialogue: 0,0:21:34.69,0:21:36.60,Main Dialogue,Girl,0,0,0,,Aqui, Onee-chan.
+Dialogue: 0,0:21:39.27,0:21:40.98,Main Dialogue,Mom,0,0,0,,Aceite, por favor.
+Dialogue: 0,0:21:40.98,0:21:44.19,Main Dialogue,,0,0,0,,Ela quer te agradecer do jeito dela.
+Dialogue: 0,0:21:46.86,0:21:47.91,Main Dialogue,Emilia,0,0,0,,Obrigada.
+Dialogue: 0,0:21:56.42,0:21:58.25,Main Dialogue,Kadomon,0,0,0,,Sinto muito por aquilo.
+Dialogue: 0,0:21:58.25,0:22:00.96,Main Dialogue,Kadomon,0,0,0,,Vocês ajudaram minha filha,\N então quero agradecer.
+Dialogue: 0,0:22:00.96,0:22:02.21,Main Dialogue,Kadomon,0,0,0,,Vocês podem pedir qualquer coisa.
+Dialogue: 0,0:22:05.42,0:22:06.63,Main Dialogue,Emilia,0,0,0,,Viu só, não disse?
+Dialogue: 0,0:22:06.63,0:22:10.22,Main Dialogue,,0,0,0,,Isso acabou voltando e\N virando a nosso favor!
+Dialogue: 0,0:22:29.66,0:22:32.12,Main Dialogue,Subaru,0,0,0,,O ar, a atmosfera e \Nmuito provavelmente
+Dialogue: 0,0:22:32.12,0:22:34.50,Main Dialogue,,0,0,0,,a reação das pessoas aqui \Né completamente horrível.
+Dialogue: 0,0:22:34.50,0:22:36.33,Main Dialogue,Subaru,0,0,0,,Você tem certeza que ela está aqui?
+Dialogue: 0,0:22:37.21,0:22:39.92,Flashback Dialogue,Kadomon,0,0,0,,Essa parece com a tal de Felt.
+Dialogue: 0,0:22:39.92,0:22:42.04,Flashback Dialogue,Kadomon,0,0,0,,Você disse que era uma \Ngarotinha loira e ágil, né?
+Dialogue: 0,0:22:42.46,0:22:46.59,Flashback Dialogue,Kadomon,0,0,0,,Ela é bem conhecida nas favelas.\N Só que não sei onde ela mora.
+Dialogue: 0,0:22:47.42,0:22:49.68,Main Dialogue,Emilia,0,0,0,,Talvez alguém nos conte se perguntarmos.
+Dialogue: 0,0:22:49.68,0:22:54.47,Main Dialogue,Puck,0,0,0,,Ninguém iria entregar um parceiro, \Nentão não crie esperanças em cima disso.
+Dialogue: 0,0:22:54.47,0:22:56.68,Main Dialogue,Subaru,0,0,0,,Talvez devêssemos voltar depois.
+Dialogue: 0,0:22:57.06,0:23:00.56,Main Dialogue,Puck,0,0,0,,Se vão ficar ou não, vocês\N devem decidir rápido.
+Dialogue: 0,0:23:00.56,0:23:02.40,Main Dialogue,Puck,0,0,0,,Eu já estou quase sem tempo.
+Dialogue: 0,0:23:02.40,0:23:04.40,Main Dialogue,Subaru,0,0,0,,Você {\i1}o quê{\i0}? Sem tempo?
+Dialogue: 0,0:23:04.40,0:23:07.99,Main Dialogue,Puck,0,0,0,,Eu tenho uma bela aparência,\N mas ainda sou um espírito.
+Dialogue: 0,0:23:07.99,0:23:11.62,Main Dialogue,Puck,0,0,0,,É preciso bastante mana para \Nme manifestar em forma física.
+Dialogue: 0,0:23:11.62,0:23:14.37,Main Dialogue,Puck,0,0,0,,Então à noite eu volto para o \Ncristal do qual sou invocado
+Dialogue: 0,0:23:14.37,0:23:17.41,Main Dialogue,,0,0,0,,e me preparo para o \Namanhecer do outro dia.
+Dialogue: 0,0:23:17.79,0:23:21.33,Main Dialogue,Puck,0,0,0,,Na média, o ideal é que eu fique\N acordado entre às nove até as cinco.
+Dialogue: 0,0:23:21.34,0:23:24.09,Main Dialogue,Subaru,0,0,0,,Nove até as cinco? \NVocê parece um funcionário público.
+Dialogue: 0,0:23:24.09,0:23:26.88,Main Dialogue,Subaru,0,0,0,,Os termos de emprego de espíritos \Nsão mais duros do que eu imaginava...
+Dialogue: 0,0:23:27.21,0:23:30.34,Main Dialogue,Emilia,0,0,0,,Ficaremos bem sem o Pack.\N Devemos continuar.
+Dialogue: 0,0:23:30.34,0:23:34.18,Main Dialogue,Puck,0,0,0,,Sim. Mas me desculpem...\N Já estou no meu limite...
+Dialogue: 0,0:23:35.01,0:23:37.17,Main Dialogue,Subaru,0,0,0,,É como se ele estivesse morrendo\N na hora que ele desaparece...
+Dialogue: 0,0:23:37.17,0:23:39.56,Main Dialogue,Emilia,0,0,0,,Desculpe exigir tanto de você, Pack.
+Dialogue: 0,0:23:39.56,0:23:42.48,Main Dialogue,Emilia,0,0,0,,Cuidarmos das coisas a partir de \Nagora, então descanse um pouco.
+Dialogue: 0,0:23:45.48,0:23:47.78,Main Dialogue,Puck,0,0,0,,Não façam nada imprudente.
+Dialogue: 0,0:23:47.78,0:23:50.95,Main Dialogue,Puck,0,0,0,,Caso for preciso, use o oudou \Npara me invocar novamente.
+Dialogue: 0,0:23:51.91,0:23:54.49,Main Dialogue,Puck,0,0,0,,Certo, deixo tudo em suas mãos, Subaru.
+Dialogue: 0,0:24:04.67,0:24:09.59,Main Dialogue,Subaru,0,0,0,,Ei, eu não fico sozinho com \Numa garota desde o primário!
+Dialogue: 0,0:24:09.59,0:24:11.72,Main Dialogue,Emilia,0,0,0,,Não faça nada estranho.
+Dialogue: 0,0:24:11.72,0:24:13.34,Main Dialogue,,0,0,0,,Eu posso usar magia.
+Dialogue: 0,0:24:13.34,0:24:15.01,Main Dialogue,Subaru,0,0,0,,Eu não vou!
+Dialogue: 0,0:24:15.01,0:24:18.14,Main Dialogue,Subaru,0,0,0,,O maior problema é como\N vamos achar a Felt agora.
+Dialogue: 0,0:24:19.22,0:24:20.80,Main Dialogue,Emilia,0,0,0,,Eu vou perguntar aos espíritos inferiores.
+Dialogue: 0,0:24:20.80,0:24:22.12,Main Dialogue,Subaru,0,0,0,,Espíritos inferiores?
+Dialogue: 0,0:24:22.12,0:24:26.47,Main Dialogue,Emilia,0,0,0,,Espíritos inferiores são seres que\N ainda não se tornaram espíritos.
+Dialogue: 0,0:24:26.47,0:24:30.07,Main Dialogue,Emilia,0,0,0,,Eles crescem com o tempo,\N e ao ganharem força e consciência,
+Dialogue: 0,0:24:30.07,0:24:32.46,Main Dialogue,Emilia,0,0,0,,eles se tornam espíritos \Nde verdade, como o Pack.
+Dialogue: 0,0:25:19.97,0:25:22.36,Main Dialogue,Emilia,0,0,0,,Está ficando cada vez mais abandonado.
+Dialogue: 0,0:25:22.36,0:25:25.00,Main Dialogue,Subaru,0,0,0,,Será que ela mora mesmo em um lugar destes?
+Dialogue: 0,0:25:25.00,0:25:30.87,Main Dialogue,Emilia,0,0,0,,Os espíritos inferiores disseram que avistaram \Nalguém parecido com a Felt vindo nessa direção...
+Dialogue: 0,0:25:34.89,0:25:36.43,Main Dialogue,Subaru,0,0,0,,Ei, camarada!
+Dialogue: 0,0:25:36.43,0:25:39.11,Main Dialogue,Subaru,0,0,0,,Alguma garota chamada \NFelt vive aqui por perto?
+Dialogue: 0,0:25:39.11,0:25:41.17,Main Dialogue,Guy,0,0,0,,Hein? Felt?
+Dialogue: 0,0:25:41.91,0:25:44.44,Main Dialogue,Guy,0,0,0,,Não há nada pra esses lados \Nalém da casa do velho Rom.
+Dialogue: 0,0:25:46.25,0:25:49.51,Main Dialogue,Guy,0,0,0,,A Felt roubou alguma coisa de vocês?
+Dialogue: 0,0:25:49.51,0:25:52.17,Main Dialogue,Guy,0,0,0,,Bem, tentem negociar e \Nrecuperar o que perderam.
+Dialogue: 0,0:25:52.17,0:25:53.77,Main Dialogue,Guy,0,0,0,,Viva bastante.
+Dialogue: 0,0:26:00.53,0:26:05.37,Main Dialogue,Emilia,0,0,0,,Por que eu pagaria por algo\N que foi roubado de mim?
+Dialogue: 0,0:26:05.83,0:26:08.67,Main Dialogue,Subaru,0,0,0,,Bem, de qualquer forma, deixe isso comigo.
+Dialogue: 0,0:26:09.08,0:26:10.75,Main Dialogue,Subaru,0,0,0,,Eu vou negociar com ele.
+Dialogue: 0,0:26:12.30,0:26:15.09,Main Dialogue,Emiliar,0,0,0,,Certo. Vou deixar isso contigo.
+Dialogue: 0,0:26:15.09,0:26:16.80,Main Dialogue,Subaru,0,0,0,,Você concordou com isso tão facilmente...
+Dialogue: 0,0:26:17.34,0:26:18.93,Main Dialogue,Subaru,0,0,0,,Do jeito que você vinha agindo,\N supus que você diria algo como:
+Dialogue: 0,0:26:18.93,0:26:21.01,Main Dialogue,Subaru,0,0,0,,"Deixar isso com um inútil como você?"
+Dialogue: 0,0:26:21.01,0:26:23.43,Main Dialogue,Subaru,0,0,0,,"Isso é tão ridículo que \Nestou morrendo de rir!".
+Dialogue: 0,0:26:23.43,0:26:27.02,Main Dialogue,Subaru,0,0,0,,E eu ficaria chateado, apesar de \Ncontinuar te ajudando mesmo assim.
+Dialogue: 0,0:26:27.02,0:26:29.48,Main Dialogue,Emilia,0,0,0,,Eu não diria algo tão cruel assim.
+Dialogue: 0,0:26:29.48,0:26:33.65,Main Dialogue,Emilia,0,0,0,,Obviamente, eu estaria mentindo se dissesse\N que você não está me atrapalhando...
+Dialogue: 0,0:26:33.65,0:26:35.24,Main Dialogue,Subaru,0,0,0,,Isso seria uma mentira?!
+Dialogue: 0,0:26:35.24,0:26:36.03,Main Dialogue,Emilia,0,0,0,,Mas...
+Dialogue: 0,0:26:36.65,0:26:38.41,Main Dialogue,Emilia,0,0,0,,Eu vou tentar acreditar em você.
+Dialogue: 0,0:26:40.16,0:26:42.95,Main Dialogue,Emilia,0,0,0,,Caso dê tudo certo no fim,\N considerarei isso lucro.
+Dialogue: 0,0:26:42.95,0:26:44.70,Main Dialogue,Subaru,0,0,0,,Se você olhasse para mim e dissesse:
+Dialogue: 0,0:26:44.70,0:26:48.21,Main Dialogue,Subaru,0,0,0,,"Dê o seu melhor por mim!"\N ...eu me sentiria bem mais motivado.
+Dialogue: 0,0:26:48.75,0:26:50.63,Main Dialogue,Emilia,0,0,0,,Eu não conseguiria me forçar\N a dizer uma coisa dessas.
+Dialogue: 0,0:26:51.59,0:26:53.92,Main Dialogue,Emilia,0,0,0,,Mas... dê o seu melhor.
+Dialogue: 0,0:26:56.13,0:26:57.68,Main Dialogue,Subaru,0,0,0,,Sim. Eu vou.
+Dialogue: 0,0:26:58.09,0:27:00.80,Main Dialogue,Subaru,0,0,0,,Vou entrar primeiro. \NEspere aqui fora e fique de vigia.
+Dialogue: 0,0:27:00.80,0:27:04.01,Main Dialogue,Subaru,0,0,0,,Eu não vou demorar muito,\N mas pode jantar sem mim.
+Dialogue: 0,0:27:04.01,0:27:05.68,Main Dialogue,Emilia,0,0,0,,Não diga coisas idiotas assim.
+Dialogue: 0,0:27:05.68,0:27:06.68,Main Dialogue,Emilia,0,0,0,,Tome cuidado.
+Dialogue: 0,0:27:06.68,0:27:07.69,Main Dialogue,Subaru,0,0,0,,Certo, certo.
+Dialogue: 0,0:27:08.31,0:27:11.27,Main Dialogue,Subaru,0,0,0,,Não entre até eu dizer que\N está tudo bem, Satella.
+Dialogue: 0,0:27:14.15,0:27:14.94,Main Dialogue,Subaru,0,0,0,,O quê?
+Dialogue: 0,0:27:14.94,0:27:17.24,Main Dialogue,Emilia,0,0,0,,N-Não é nada. Não se preocupe.
+Dialogue: 0,0:27:17.74,0:27:21.03,Main Dialogue,Emilia,0,0,0,,Se você pegar meu brasão de\N volta, eu vou me desculpar.
+Dialogue: 0,0:27:24.12,0:27:26.37,Main Dialogue,Subaru,0,0,0,,Com licença...
+Dialogue: 0,0:27:32.25,0:27:35.50,Main Dialogue,Subaru,0,0,0,,E então, estou entrando em um \Nninho de cobras ou demônios?
+Dialogue: 0,0:27:35.50,0:27:38.55,Main Dialogue,Subaru,0,0,0,,Em um mundo de fantasia\N destes, ambos são possíveis...
+Dialogue: 0,0:27:39.17,0:27:41.09,Main Dialogue,Subaru,0,0,0,,Tudo isso é mercadoria roubada?
+Dialogue: 0,0:27:41.09,0:27:43.47,Main Dialogue,Subaru,0,0,0,,E por que não há ninguém aqui?
+Dialogue: 0,0:27:43.47,0:27:46.18,Main Dialogue,Subaru,0,0,0,,Um lugar que lida com itens roubados\N não deveria ser tão descuidado assim.
+Dialogue: 0,0:28:11.37,0:28:13.79,Main Dialogue,Elsa,0,0,0,,Ah, minha nossa, você viu isso?
+Dialogue: 0,0:28:13.79,0:28:15.42,Main Dialogue,Elsa,0,0,0,,Bem, eu não tenho escolha então.
+Dialogue: 0,0:28:15.79,0:28:17.84,Main Dialogue,Elsa,0,0,0,,É, eu não tenho escolha...
+Dialogue: 0,0:28:25.85,0:28:27.72,Main Dialogue,Subaru,0,0,0,,Ai, isso queima...
+Dialogue: 0,0:28:34.23,0:28:37.11,Italics Dialogue,Subaru,0,0,0,,Droga... Todo este sangue é meu?
+Dialogue: 0,0:28:40.11,0:28:42.95,Italics Dialogue,Subaru,0,0,0,,Isso é ruim... Muito ruim...
+Dialogue: 0,0:28:45.32,0:28:47.83,Main Dialogue,Emilia,0,0,0,,Subaru? O que houve?
+Dialogue: 0,0:28:47.83,0:28:48.54,Main Dialogue,Emilia,0,0,0,,Subaru?
+Dialogue: 0,0:28:48.91,0:28:52.29,Main Dialogue,Subaru,0,0,0,,Não... Corra! Rápido!
+Dialogue: 0,0:29:13.31,0:29:14.60,Main Dialogue,Subaru,0,0,0,,Espere...
+Dialogue: 0,0:29:15.60,0:29:16.69,Main Dialogue,Subaru,0,0,0,,Eu...
+Dialogue: 0,0:29:17.19,0:29:18.82,Main Dialogue,Subaru,0,0,0,,vou...
+Dialogue: 0,0:29:19.53,0:29:22.24,Main Dialogue,Subaru,0,0,0,,te salvar...
+Dialogue: 0,0:29:27.37,0:29:30.54,Main Dialogue,Kadomon,0,0,0,,O que foi, moleque? \NEstá parecendo que viu um fantasma.
+Dialogue: 0,0:29:32.25,0:29:33.00,Main Dialogue,Subaru,0,0,0,,O quê?
+Dialogue: 0,0:29:33.79,0:29:36.25,Main Dialogue,Kadomon,0,0,0,,Eu te perguntei sobre a ringa! A ringa!
+Dialogue: 0,0:29:36.25,0:29:37.96,Main Dialogue,Kadomon,0,0,0,,Você ao menos tem dinheiro?
+Dialogue: 0,0:29:38.88,0:29:39.71,Main Dialogue,Subaru,0,0,0,,O quê?
+Dialogue: 0,0:29:40.00,0:29:44.17,Main Dialogue,Kadomon,0,0,0,,Deixe disso! A ringa! \NVocê vai comprá-la ou não?
+Dialogue: 0,0:29:44.17,0:29:48.01,Main Dialogue,Subaru,0,0,0,,Ah... Não, como eu disse,\N estou totalmente falido...
+Dialogue: 0,0:29:48.01,0:29:50.93,Main Dialogue,Kadomon,0,0,0,,Hein? Se vai ficar só olhando, caia fora.
+Dialogue: 0,0:29:50.93,0:29:54.18,Main Dialogue,Kadomon,0,0,0,,Eu estou aqui trabalhando.\N Não tenho tempo para curiosos.
+Dialogue: 0,0:30:08.16,0:30:09.28,Main Dialogue,Subaru,0,0,0,,O que está acontecendo?
+Dialogue: 0,0:30:09.95,0:30:12.37,Main Dialogue,Subaru,0,0,0,,Não estava noite há pouco tempo?
+Dialogue: 0,0:30:14.00,0:30:16.25,Main Dialogue,Subaru,0,0,0,,O ferimento na minha barriga sumiu...
+Dialogue: 0,0:30:18.96,0:30:20.63,Main Dialogue,Subaru,0,0,0,,Ah, é mesmo! A Satella!
+Dialogue: 0,0:30:20.63,0:30:24.13,Main Dialogue,Subaru,0,0,0,,Nossa, o Pack não tinha me\N pedido para cuidar dela?
+Dialogue: 0,0:30:24.13,0:30:25.97,Main Dialogue,Subaru,0,0,0,,Eu preciso voltar àquela loja!
+Dialogue: 0,0:30:37.02,0:30:39.77,Main Dialogue,Kan,0,0,0,,Ei, por que você está tão assustado?
+Dialogue: 0,0:30:39.77,0:30:42.82,Main Dialogue,Chin,0,0,0,,Se não quiser se machucar,\N nos dê tudo que você tem!
+Dialogue: 0,0:30:42.82,0:30:45.90,Main Dialogue,Subaru,0,0,0,,Vocês de novo... Viram que eu estava \Nsozinho e resolveram se vingar?
+Dialogue: 0,0:30:46.24,0:30:48.36,Main Dialogue,Chin,0,0,0,,Hein? Do que é que você está falando?
+Dialogue: 0,0:30:48.36,0:30:50.12,Main Dialogue,Kan,0,0,0,,Você ficou maluco?
+Dialogue: 0,0:30:50.12,0:30:51.58,Main Dialogue,Ton,0,0,0,,Não precisa se preocupar.
+Dialogue: 0,0:30:51.58,0:30:54.87,Main Dialogue,,0,0,0,,Basta deixar tudo o que você tem\N no chão e nós deixaremos você ir.
+Dialogue: 0,0:30:55.25,0:30:57.92,Main Dialogue,Subaru,0,0,0,,Tudo bem, então. \NTudo o que eu tenho, né?
+Dialogue: 0,0:30:57.92,0:30:59.88,Main Dialogue,Subaru,0,0,0,,Eu estou com pressa,\N então eu não me importo.
+Dialogue: 0,0:30:59.88,0:31:01.42,Main Dialogue,Kan,0,0,0,,Agora, imite um cachorro.
+Dialogue: 0,0:31:01.42,0:31:04.67,Main Dialogue,Kan,0,0,0,,Fique de quatro como um \Ncachorro e fale: "Me ajudem!"
+Dialogue: 0,0:31:05.26,0:31:07.68,Main Dialogue,Subaru,0,0,0,,Não vá se achando, desgraçado!
+Dialogue: 0,0:31:16.10,0:31:17.18,Main Dialogue,Subaru,0,0,0,,Opa, opa.
+Dialogue: 0,0:31:19.90,0:31:23.11,Main Dialogue,Subaru,0,0,0,,Não subestime um garoto ocioso\N com muito tempo livre como eu.
+Dialogue: 0,0:31:23.11,0:31:26.82,Main Dialogue,Subaru,0,0,0,,Depois de ficar sacudindo uma espada\N de madeira por aí sem precisar,
+Dialogue: 0,0:31:26.82,0:31:29.70,Main Dialogue,Subaru,0,0,0,,a força que tenho na mão é \Nde pelo menos 70 quilos!
+Dialogue: 0,0:31:35.08,0:31:38.50,Main Dialogue,Subaru,0,0,0,,Eu estou com pressa!\N Não me incomodem de novo!
+Dialogue: 0,0:31:41.83,0:31:44.50,Main Dialogue,Subaru,0,0,0,,Não se desespere... Não se \Ndesespere, não se desespere!
+Dialogue: 0,0:31:52.47,0:31:54.01,Italics Dialogue,Subaru,0,0,0,,Será que eu sou idiota?
+Dialogue: 0,0:31:54.01,0:31:56.77,Italics Dialogue,Subaru,0,0,0,,Depois de ter vindo até aqui,\N não posso ir embora sem respostas!
+Dialogue: 0,0:31:59.18,0:32:00.98,Main Dialogue,Subaru,0,0,0,,Tem alguém aqui?
+Dialogue: 0,0:32:01.56,0:32:03.98,Main Dialogue,Subaru,0,0,0,,Alguém... Tem alguém aqui, não tem?
+Dialogue: 0,0:32:03.98,0:32:06.23,Main Dialogue,Subaru,0,0,0,,Por favor, responda! Por favor!
+Dialogue: 0,0:32:06.23,0:32:08.11,Main Dialogue,Rom,0,0,0,,Feche essa matraca!
+Dialogue: 0,0:32:08.11,0:32:10.61,Main Dialogue,Rom,0,0,0,,Tá querendo derrubar minha porta sem sequer
+Dialogue: 0,0:32:10.61,0:32:12.36,Main Dialogue,,0,0,0,,saber qual o sinal ou a senha?!
+Dialogue: 0,0:32:19.33,0:32:20.29,Main Dialogue,Subaru,0,0,0,,Você é...
+Dialogue: 0,0:32:26.55,0:32:29.63,Main Dialogue,Rom,0,0,0,,Por que está tão inquieto?
+Dialogue: 0,0:32:29.63,0:32:31.97,Main Dialogue,Rom,0,0,0,,Será que suas bolas estão coçando tanto assim?
+Dialogue: 0,0:32:31.97,0:32:34.47,Main Dialogue,Subaru,0,0,0,,Não precisa se preocupar\N com minhas partes íntimas!
+Dialogue: 0,0:32:34.47,0:32:36.39,Main Dialogue,Subaru,0,0,0,,E não comece a conversa\N com esse tipo de humor!
+Dialogue: 0,0:32:36.39,0:32:39.14,Main Dialogue,Rom,0,0,0,,Você já está interrompendo \Nminha bebedeira vespertina.
+Dialogue: 0,0:32:41.39,0:32:43.81,Main Dialogue,Rom,0,0,0,,Você vai me matar se começar a\N falar de algo entediante agora.
+Dialogue: 0,0:32:43.81,0:32:47.19,Main Dialogue,Subaru,0,0,0,,Não beba enquanto o sol ainda \Nestá alto. Você vai morrer cedo.
+Dialogue: 0,0:32:47.19,0:32:50.40,Main Dialogue,Subaru,0,0,0,,Na verdade, essa é uma\N pergunta idiota, mas...
+Dialogue: 0,0:32:51.65,0:32:54.20,Main Dialogue,Subaru,0,0,0,,Você morreu recentemente?
+Dialogue: 0,0:32:59.54,0:33:02.71,Main Dialogue,Rom,0,0,0,,Bem, admito que sou um \Nvelho com um pé na cova,
+Dialogue: 0,0:33:02.71,0:33:04.88,Main Dialogue,Rom,0,0,0,,mas eu ainda não morri.
+Dialogue: 0,0:33:05.21,0:33:07.59,Main Dialogue,Subaru,0,0,0,,Certo, chegou a ver uma \Ngarota de cabelo prateado?
+Dialogue: 0,0:33:07.84,0:33:09.13,Main Dialogue,Rom,0,0,0,,Cabelo prateado?
+Dialogue: 0,0:33:09.46,0:33:12.34,Main Dialogue,Rom,0,0,0,,Eu não vi ninguém tão chamativo assim.
+Dialogue: 0,0:33:14.47,0:33:16.39,Italics Dialogue,Subaru,0,0,0,,Será que aquilo foi tudo um sonho?
+Dialogue: 0,0:33:16.85,0:33:19.18,Italics Dialogue,Subaru,0,0,0,,Então quanto daquilo será que foi um sonho
+Dialogue: 0,0:33:19.18,0:33:21.56,Italics Dialogue,Subaru,0,0,0,,e por que eu estou nesse mundo?
+Dialogue: 0,0:33:21.81,0:33:25.06,Main Dialogue,Rom,0,0,0,,Mas então, o que é que \Nvocê está fazendo aqui?
+Dialogue: 0,0:33:25.06,0:33:27.90,Main Dialogue,Subaru,0,0,0,,Ah... Eu estou procurando por um brasão.
+Dialogue: 0,0:33:27.90,0:33:30.78,Main Dialogue,Subaru,0,0,0,,Ele pertence a uma garota de \Ncabelo prateado que me ajudou.
+Dialogue: 0,0:33:30.78,0:33:33.57,Main Dialogue,Subaru,0,0,0,,Eu não sei por quê, mas é \Nmuito importante para ela.
+Dialogue: 0,0:33:33.57,0:33:37.03,Main Dialogue,Subaru,0,0,0,,Acho que ela disse que ele\N tinha uma joia no centro.
+Dialogue: 0,0:33:37.41,0:33:39.70,Main Dialogue,Rom,0,0,0,,Um brasão com uma joia...
+Dialogue: 0,0:33:40.29,0:33:43.00,Main Dialogue,Rom,0,0,0,,Desculpe, mas eu não \Ntenho nada do tipo aqui.
+Dialogue: 0,0:33:43.33,0:33:45.83,Main Dialogue,Subaru,0,0,0,,Tem certeza? Tente se lembrar!
+Dialogue: 0,0:33:45.83,0:33:47.58,Main Dialogue,Subaru,0,0,0,,Talvez você já esteja velho e caduco?
+Dialogue: 0,0:33:47.58,0:33:50.00,Main Dialogue,Rom,0,0,0,,Se eu não consigo me lembrar \Nnem quando eu estou bêbado,
+Dialogue: 0,0:33:50.00,0:33:52.59,Main Dialogue,Rom,0,0,0,,então a única explicação que \Ntenho é que não sei sobre isso.
+Dialogue: 0,0:33:53.05,0:33:54.26,Main Dialogue,Rom,0,0,0,,Mas...
+Dialogue: 0,0:33:54.59,0:33:57.68,Main Dialogue,Rom,0,0,0,,Tem alguém me trazendo \Nalgumas coisinhas mais tarde.
+Dialogue: 0,0:33:57.68,0:34:00.22,Main Dialogue,Rom,0,0,0,,Me foi dito que são só coisas de primeira.
+Dialogue: 0,0:34:00.22,0:34:04.27,Main Dialogue,Rom,0,0,0,,Tem bastante chance de ser \No que você está procurando.
+Dialogue: 0,0:34:04.27,0:34:06.23,Main Dialogue,Subaru,0,0,0,,Quem está trazendo isso aqui\N é uma garota chamada Felt?
+Dialogue: 0,0:34:06.44,0:34:09.73,Main Dialogue,Rom,0,0,0,,O quê? Então você sabe até quem o roubou?
+Dialogue: 0,0:34:09.73,0:34:14.95,Main Dialogue,Rom,0,0,0,,É, mas se você vai poder comprá-lo\N ou não já é outra questão.
+Dialogue: 0,0:34:14.95,0:34:17.82,Main Dialogue,Subaru,0,0,0,,Ha! Não adianta tentar tirar algo de mim.
+Dialogue: 0,0:34:17.82,0:34:20.66,Main Dialogue,Subaru,0,0,0,,Eu estou totalmente quebrado, afinal de contas.
+Dialogue: 0,0:34:20.66,0:34:22.75,Main Dialogue,Rom,0,0,0,,Não há motivo para falarmos sobre isso, então.
+Dialogue: 0,0:34:22.75,0:34:26.25,Main Dialogue,Subaru,0,0,0,,Não, ainda temos a opção de trocar.
+Dialogue: 0,0:34:27.17,0:34:31.05,Main Dialogue,Rom,0,0,0,,Agora que você comentou, você \Ntem algumas coisas diferentes aí.
+Dialogue: 0,0:34:31.05,0:34:34.76,Main Dialogue,Subaru,0,0,0,,Isso mesmo. Por exemplo,\N isso é um salgadinho de milho.
+Dialogue: 0,0:34:34.76,0:34:36.13,Main Dialogue,Subaru,0,0,0,,É bem delicioso!
+Dialogue: 0,0:34:36.13,0:34:37.93,Main Dialogue,Rom,0,0,0,,Isso é comida?
+Dialogue: 0,0:34:45.31,0:34:47.94,Main Dialogue,Rom,0,0,0,,É mesmo! Mas que gosto diferente!
+Dialogue: 0,0:34:47.94,0:34:50.06,Main Dialogue,Rom,0,0,0,,Isso cairia bem com uma bebidinha!
+Dialogue: 0,0:34:50.06,0:34:51.52,Main Dialogue,Subaru,0,0,0,,Não é mesmo?
+Dialogue: 0,0:34:51.52,0:34:53.32,Main Dialogue,Subaru,0,0,0,,Ei! Não vá os comendo sem permissão!
+Dialogue: 0,0:34:53.32,0:34:56.24,Main Dialogue,Rom,0,0,0,,Bem, não sei o que você pretende trocar,
+Dialogue: 0,0:34:56.24,0:34:59.07,Main Dialogue,Rom,0,0,0,,mas você vai ter que voltar \Ndepois que a Felt chegar aqui.
+Dialogue: 0,0:34:59.07,0:35:01.66,Main Dialogue,Rom,0,0,0,,Hum, isso é bom!
+Dialogue: 0,0:35:13.38,0:35:17.59,Main Dialogue,Subaru,0,0,0,,Imagino que em qualquer mundo \Nexiste os com e sem dinheiro.
+Dialogue: 0,0:35:17.59,0:35:20.84,Main Dialogue,Subaru,0,0,0,,É só que aqui é bem \Nfácil de ver a diferença.
+Dialogue: 0,0:35:26.68,0:35:29.61,Main Dialogue,Felt,0,0,0,,Ei, o que você está fazendo aí?\N Você está na minha frente.
+Dialogue: 0,0:35:31.36,0:35:32.31,Main Dialogue,Subaru,0,0,0,,Felt!
+Dialogue: 0,0:35:32.31,0:35:34.15,Main Dialogue,Felt,0,0,0,,Você me conhece?
+Dialogue: 0,0:35:34.15,0:35:36.29,Main Dialogue,Subaru,0,0,0,,Claro que sim!\N Eu estava te esperando!
+Dialogue: 0,0:35:36.94,0:35:38.23,Main Dialogue,Felt,0,0,0,,Por quê?
+Dialogue: 0,0:35:38.82,0:35:42.32,Main Dialogue,Subaru,0,0,0,,Como assim, está dizendo \Nque não lembra de mim?
+Dialogue: 0,0:35:43.12,0:35:44.37,Main Dialogue,Felt,0,0,0,,Já nos vimos antes?
+Dialogue: 0,0:35:44.37,0:35:47.16,Main Dialogue,Felt,0,0,0,,Sabe, tenho estado bastante ocupada,\N então não lembro da maioria das pessoas,
+Dialogue: 0,0:35:47.16,0:35:49.42,Main Dialogue,,0,0,0,,a não ser que elas deixem\N uma grande impressão.
+Dialogue: 0,0:35:49.42,0:35:51.96,Main Dialogue,Subaru,0,0,0,,Eu diria que aquela foi uma\N impressão bem grande...
+Dialogue: 0,0:35:51.96,0:35:53.50,Main Dialogue,Subaru,0,0,0,,Mas bem, deixe isso de lado.
+Dialogue: 0,0:35:53.50,0:35:55.87,Main Dialogue,Subaru,0,0,0,,Eu quero negociar o brasão que você tem.
+Dialogue: 0,0:35:58.72,0:36:00.63,Main Dialogue,Felt,0,0,0,,Ah, então é isso, hein?
+Dialogue: 0,0:36:00.63,0:36:02.22,Main Dialogue,Felt,0,0,0,,Tudo bem, estou ouvindo.
+Dialogue: 0,0:36:03.89,0:36:05.14,Main Dialogue,Rom,0,0,0,,Para um rato...
+Dialogue: 0,0:36:05.14,0:36:05.76,Main Dialogue,Felt,0,0,0,,Veneno.
+Dialogue: 0,0:36:05.76,0:36:06.60,Main Dialogue,Rom,0,0,0,,Para uma baleia branca...
+Dialogue: 0,0:36:06.60,0:36:07.14,Main Dialogue,Felt,0,0,0,,Um arpão.
+Dialogue: 0,0:36:07.14,0:36:08.81,Main Dialogue,Rom,0,0,0,,Para o nobre lorde dragão, nós somos...
+Dialogue: 0,0:36:08.81,0:36:09.81,Main Dialogue,Felt,0,0,0,,Preguiçosos.
+Dialogue: 0,0:36:11.48,0:36:13.44,Main Dialogue,Felt,0,0,0,,Desculpe te fazer esperar, velho Rom.
+Dialogue: 0,0:36:13.44,0:36:15.11,Main Dialogue,Felt,0,0,0,,Meu alvo hoje era mais \Npersistente do que eu imaginava.
+Dialogue: 0,0:36:15.11,0:36:16.73,Main Dialogue,,0,0,0,,Demorou até conseguir despistá-los.
+Dialogue: 0,0:36:21.24,0:36:25.33,Main Dialogue,Felt,0,0,0,,Ei, velho Rom, você \Ncolocou água neste leite?
+Dialogue: 0,0:36:25.33,0:36:26.29,Main Dialogue,Felt,0,0,0,,Está nojento.
+Dialogue: 0,0:36:26.29,0:36:30.21,Main Dialogue,Rom,0,0,0,,Ei, eu te dou algo na maior boa \Nvontade e você ainda chama de nojento?
+Dialogue: 0,0:36:30.66,0:36:33.63,Main Dialogue,Subaru,0,0,0,,Vocês dois são mais \Npróximos do que eu esperava.
+Dialogue: 0,0:36:33.63,0:36:35.59,Main Dialogue,Subaru,0,0,0,,Estou me sentindo abandonado aqui.
+Dialogue: 0,0:36:35.59,0:36:39.34,Main Dialogue,Felt,0,0,0,,Não fale como um covarde quando você tem \Numa cara quase tão feia quanto a do velho Rom.
+Dialogue: 0,0:36:39.80,0:36:41.88,Main Dialogue,Subaru,0,0,0,,Várias pessoas já disseram\N várias coisas para mim,
+Dialogue: 0,0:36:41.88,0:36:43.76,Main Dialogue,,0,0,0,,mas você está dizendo que eu\N me comparo com o velho ali?!
+Dialogue: 0,0:36:43.76,0:36:47.18,Main Dialogue,Felt,0,0,0,,Ah, eu acho que exagerei.\N Desculpe aí, cara.
+Dialogue: 0,0:36:47.60,0:36:51.94,Main Dialogue,Rom,0,0,0,,Vocês dois não estão armando\N para me irritar, não é?
+Dialogue: 0,0:36:53.10,0:36:55.90,Main Dialogue,Felt,0,0,0,,Muito bem, por que não vamos\N logo direto aos negócios?
+Dialogue: 0,0:36:55.90,0:36:57.61,Main Dialogue,Felt,0,0,0,,Quanto você pretende pagar por ele?
+Dialogue: 0,0:36:57.61,0:36:59.19,Main Dialogue,Subaru,0,0,0,,Você não perde tempo...
+Dialogue: 0,0:36:59.19,0:37:01.70,Main Dialogue,Subaru,0,0,0,,Antes que eu responda, você\N está com o brasão, não está?
+Dialogue: 0,0:37:01.70,0:37:03.24,Main Dialogue,Felt,0,0,0,,Mas é claro que sim.
+Dialogue: 0,0:37:04.24,0:37:05.28,Main Dialogue,Felt,0,0,0,,Viu só?
+Dialogue: 0,0:37:10.29,0:37:12.50,Main Dialogue,Felt,0,0,0,,Ele tem uma pedra no meio,
+Dialogue: 0,0:37:12.50,0:37:15.04,Main Dialogue,Felt,0,0,0,,por isso eu tive muito \Ntrabalho para consegui-lo.
+Dialogue: 0,0:37:15.04,0:37:18.13,Main Dialogue,Felt,0,0,0,,Se puder pagar o suficiente para compensar\N o meu esforço, ambos sairemos felizes.
+Dialogue: 0,0:37:18.13,0:37:19.38,Main Dialogue,Subaru,0,0,0,,Eu não tenho dinheiro.
+Dialogue: 0,0:37:20.09,0:37:22.51,Main Dialogue,Felt,0,0,0,,Então não temos nada para discutir!
+Dialogue: 0,0:37:22.51,0:37:27.47,Main Dialogue,Subaru,0,0,0,,Tsc, tsc, tsc. Eu não tenho dinheiro, mas\N tenho coisas que valem dinheiro.
+Dialogue: 0,0:37:29.39,0:37:31.35,Main Dialogue,Subaru,0,0,0,,O que eu tenho aqui é
+Dialogue: 0,0:37:31.35,0:37:34.23,Main Dialogue,,0,0,0,,um dispositivo mágico que pode parar o \Ntempo para qualquer um, em qualquer lugar,
+Dialogue: 0,0:37:34.23,0:37:35.90,Main Dialogue,Subaru,0,0,0,,um "telefone"!
+Dialogue: 0,0:37:35.90,0:37:37.06,Main Dialogue,Felt,0,0,0,,O que é isso?
+Dialogue: 0,0:37:37.06,0:37:38.82,Main Dialogue,Rom,0,0,0,,Nunca vi nada assim antes.
+Dialogue: 0,0:37:40.07,0:37:43.11,Main Dialogue,Subaru,0,0,0,,Tomem isso! Nove fotos por \Nsegundo: Captura contínua!
+Dialogue: 0,0:37:43.45,0:37:46.91,Main Dialogue,Felt,0,0,0,,Opa! Ei! Que som é esse?!\N E qual é a desse brilho?!
+Dialogue: 0,0:37:46.91,0:37:49.12,Main Dialogue,Rom,0,0,0,,Você está tentando me matar?!
+Dialogue: 0,0:37:49.12,0:37:51.87,Main Dialogue,Rom,0,0,0,,Não faça menos desse velhote \Naqui com esses truques fajutos!
+Dialogue: 0,0:37:51.87,0:37:53.12,Main Dialogue,Subaru,0,0,0,,Agora vejam só.
+Dialogue: 0,0:37:53.50,0:37:54.50,Main Dialogue,Felt,0,0,0,,Isso é...
+Dialogue: 0,0:37:55.29,0:37:57.67,Main Dialogue,Rom,0,0,0,,Esses somos a Felt e eu.
+Dialogue: 0,0:37:57.67,0:37:59.29,Main Dialogue,Rom,0,0,0,,Que tipo de magia é essa?
+Dialogue: 0,0:37:59.29,0:38:03.46,Main Dialogue,Subaru,0,0,0,,Eu te disse, é um artefato místico que \Npode congelar um momento no tempo.
+Dialogue: 0,0:38:04.17,0:38:08.80,Main Dialogue,Subaru,0,0,0,,Com isso, você pode capturar \Nqualquer momento e salvá-los aqui.
+Dialogue: 0,0:38:08.80,0:38:10.93,Main Dialogue,Felt,0,0,0,,Entendo! Isso é incrível!
+Dialogue: 0,0:38:10.93,0:38:12.43,Main Dialogue,Rom,0,0,0,,Nunca vi nada assim.
+Dialogue: 0,0:38:12.43,0:38:14.98,Main Dialogue,,0,0,0,,Isso é um dos tais "metia" que \Nandam falando recentemente?
+Dialogue: 0,0:38:14.98,0:38:15.73,Main Dialogue,Subaru,0,0,0,,"Metia"?
+Dialogue: 0,0:38:16.23,0:38:19.36,Main Dialogue,Rom,0,0,0,,É o nome de alguns artefatos\N que permitem as pessoas que
+Dialogue: 0,0:38:19.36,0:38:22.69,Main Dialogue,,0,0,0,, não abriram o portal mágico, usarem\N magia, como verdadeiros magos.
+Dialogue: 0,0:38:23.24,0:38:25.03,Main Dialogue,Felt,0,0,0,,Eu estou mais preocupada com o preço.
+Dialogue: 0,0:38:25.03,0:38:27.29,Main Dialogue,Felt,0,0,0,,Quanto eu posso conseguir com esse metia?
+Dialogue: 0,0:38:27.70,0:38:31.62,Main Dialogue,Rom,0,0,0,,Bem, é a primeira vez que\N vejo um metia também.
+Dialogue: 0,0:38:31.62,0:38:35.28,Main Dialogue,Rom,0,0,0,,Mas sem dúvidas, isso vale \Nbem mais do que aquele brasão.
+Dialogue: 0,0:38:35.62,0:38:38.75,Main Dialogue,Subaru,0,0,0,,Então está decidido.\N Esse telefone pelo brasão!
+Dialogue: 0,0:38:38.75,0:38:40.29,Main Dialogue,Subaru,0,0,0,,Negociações concluídas!
+Dialogue: 0,0:38:40.75,0:38:41.51,Main Dialogue,Subaru,0,0,0,,Ei!
+Dialogue: 0,0:38:42.30,0:38:43.63,Main Dialogue,Felt,0,0,0,,Não. Ainda não.
+Dialogue: 0,0:38:43.63,0:38:44.63,Main Dialogue,Subaru,0,0,0,,Por que não?!
+Dialogue: 0,0:38:44.63,0:38:47.43,Main Dialogue,Felt,0,0,0,,Você não é o único com \Nquem estou o negociando.
+Dialogue: 0,0:38:47.43,0:38:48.43,Main Dialogue,Subaru,0,0,0,,Hein?
+Dialogue: 0,0:38:48.43,0:38:52.72,Main Dialogue,Felt,0,0,0,,Além disso, eu roubei este brasão\N porque haviam encomendado.
+Dialogue: 0,0:38:52.72,0:38:56.02,Main Dialogue,Felt,0,0,0,,Meu cliente disse que eu receberia\N dez moedas sagradas por ele.
+Dialogue: 0,0:38:56.02,0:38:58.19,Main Dialogue,Subaru,0,0,0,,Você já tinha um trato com a \Npessoa que encomendou o roubo?
+Dialogue: 0,0:38:58.19,0:39:01.15,Main Dialogue,Subaru,0,0,0,,Eu não sei quanto dez moedas\N sagradas valem, mas...
+Dialogue: 0,0:39:01.15,0:39:05.82,Main Dialogue,Rom,0,0,0,,O metia que você possui vale,\N no mínimo, vinte moedas sagradas...
+Dialogue: 0,0:39:05.82,0:39:09.53,Main Dialogue,Rom,0,0,0,,Não, provavelmente há alguém por aí\N que pagaria bem mais por algo assim.
+Dialogue: 0,0:39:09.53,0:39:12.91,Main Dialogue,Felt,0,0,0,,Mesmo?! Então quer dizer que \Neu posso cobrar ainda mais?
+Dialogue: 0,0:39:12.91,0:39:15.75,Main Dialogue,Subaru,0,0,0,,Então, quando e onde você vai\N se encontrar com seu cliente?
+Dialogue: 0,0:39:15.75,0:39:18.46,Main Dialogue,Felt,0,0,0,,Não se preocupe.\N A negociação acontecerá aqui.
+Dialogue: 0,0:39:18.46,0:39:20.96,Main Dialogue,Felt,0,0,0,,Se alguém como eu fosse \Nnegociar com eles sozinha,
+Dialogue: 0,0:39:20.96,0:39:23.00,Main Dialogue,,0,0,0,,eu estaria ferrada se um \Ncliente resolvesse me calotear.
+Dialogue: 0,0:39:23.00,0:39:25.63,Main Dialogue,Felt,0,0,0,,Mas não preciso me\N preocupar com o velho Rom aqui.
+Dialogue: 0,0:39:29.39,0:39:30.59,Main Dialogue,Rom,0,0,0,,Você disse a senha?
+Dialogue: 0,0:39:30.59,0:39:32.18,Main Dialogue,Felt,0,0,0,,Ah, eu não avisei isso.
+Dialogue: 0,0:39:32.18,0:39:34.52,Main Dialogue,Felt,0,0,0,,Mas é provavelmente para mim.\N Eu vou lá olhar.
+Dialogue: 0,0:39:37.60,0:39:40.27,Main Dialogue,Subaru,0,0,0,,Você não fala nada de \Nela te usar dessa forma?
+Dialogue: 0,0:39:40.27,0:39:42.56,Main Dialogue,Rom,0,0,0,,Bem, é que não somos total estranhos.
+Dialogue: 0,0:39:42.56,0:39:46.36,Main Dialogue,Rom,0,0,0,,Eu a conheço há bastante tempo, então ajudo-a.
+Dialogue: 0,0:39:48.07,0:39:51.03,Main Dialogue,Subaru,0,0,0,,Sabe, até eu daria uma\N risada seca ao avistar
+Dialogue: 0,0:39:51.03,0:39:53.41,Main Dialogue,,0,0,0,,alguém que se parece \Ntanto com um bárbaro.
+Dialogue: 0,0:39:53.41,0:39:54.99,Main Dialogue,Rom,0,0,0,,Bem, olhe só onde estamos.
+Dialogue: 0,0:39:54.99,0:39:58.00,Main Dialogue,Rom,0,0,0,,Todo mundo por aqui está \Ndesesperado tentando sobreviver.
+Dialogue: 0,0:39:58.00,0:40:00.83,Main Dialogue,Rom,0,0,0,,É normal para os jovens se \Njuntarem uns aos outros
+Dialogue: 0,0:40:00.83,0:40:03.59,Main Dialogue,,0,0,0,,em situações parecidas para \Ntentarem se manter vivos.
+Dialogue: 0,0:40:03.59,0:40:05.38,Main Dialogue,Rom,0,0,0,,Mas a Felt não serve para essas coisas.
+Dialogue: 0,0:40:05.38,0:40:08.47,Main Dialogue,Rom,0,0,0,,É por isso que eu tenho que cuidar dela.
+Dialogue: 0,0:40:10.30,0:40:12.68,Main Dialogue,Felt,0,0,0,,Como eu falei, era para mim.
+Dialogue: 0,0:40:13.35,0:40:15.10,Main Dialogue,Felt,0,0,0,,Por aqui. Quer sentar?
+Dialogue: 0,0:40:15.10,0:40:17.56,Main Dialogue,Elsa,0,0,0,,Parece que há outras pessoas aqui.
+Dialogue: 0,0:40:17.56,0:40:19.81,Main Dialogue,Felt,0,0,0,,Bem, eu teria problemas\N se você me caloteasse.
+Dialogue: 0,0:40:19.81,0:40:21.69,Main Dialogue,Felt,0,0,0,,Nós, fracotes, também \Nconseguimos ser inteligentes.
+Dialogue: 0,0:40:22.06,0:40:25.94,Main Dialogue,Elsa,0,0,0,,Eu conheço esse senhor ali,\N mas quem é esse jovem?
+Dialogue: 0,0:40:25.94,0:40:27.69,Main Dialogue,Felt,0,0,0,,Esse é o seu rival.
+Dialogue: 0,0:40:28.44,0:40:30.99,Main Dialogue,Felt,0,0,0,,Ele é a outra pessoa negociando comigo.
+Dialogue: 0,0:40:41.50,0:40:42.37,Main Dialogue,Elsa,0,0,0,,Entendo.
+Dialogue: 0,0:40:42.92,0:40:44.54,Main Dialogue,Elsa,0,0,0,,Agora eu entendo a situação.
+Dialogue: 0,0:40:44.54,0:40:48.34,Main Dialogue,Felt,0,0,0,,Isso quer dizer que vocês dois vão\N brigar para ver quem paga mais.
+Dialogue: 0,0:40:48.34,0:40:51.59,Main Dialogue,Felt,0,0,0,,Eu não me importo com quem ficará o brasão,
+Dialogue: 0,0:40:51.59,0:40:54.05,Main Dialogue,Felt,0,0,0,,então vou vendê-lo para quem pagar mais.
+Dialogue: 0,0:40:54.05,0:40:56.43,Main Dialogue,Elsa,0,0,0,,Eu gosto dessa sua personalidade.
+Dialogue: 0,0:40:56.81,0:40:59.35,Main Dialogue,Elsa,0,0,0,,E então, quanto é que o jovem ofereceu?
+Dialogue: 0,0:40:59.35,0:41:01.77,Main Dialogue,Subaru,0,0,0,,Eu estou oferecendo este metia.
+Dialogue: 0,0:41:01.77,0:41:04.27,Main Dialogue,Subaru,0,0,0,,É um item raro, provavelmente\N o único desse tipo no mundo.
+Dialogue: 0,0:41:04.27,0:41:09.61,Main Dialogue,Subaru,0,0,0,,O grandalhão ali me disse que não \Nvale menos do que vinte moedas sagradas.
+Dialogue: 0,0:41:11.36,0:41:12.53,Main Dialogue,Elsa,0,0,0,,Um metia...
+Dialogue: 0,0:41:14.87,0:41:19.45,Main Dialogue,Elsa,0,0,0,,Bem, por coincidência, meu\N cliente me deu dinheiro de sobra.
+Dialogue: 0,0:41:19.45,0:41:21.71,Main Dialogue,Elsa,0,0,0,,Só para eu estar preparada\N para situações como essa.
+Dialogue: 0,0:41:21.71,0:41:25.67,Main Dialogue,Subaru,0,0,0,,O seu cliente... Então você também\N recebeu uma encomenda, é?
+Dialogue: 0,0:41:25.67,0:41:29.00,Main Dialogue,Elsa,0,0,0,,Isso mesmo. \NMeu cliente é quem quer o brasão.
+Dialogue: 0,0:41:29.00,0:41:30.84,Main Dialogue,Elsa,0,0,0,,Você por acaso também \Ntrabalha no mesmo ramo?
+Dialogue: 0,0:41:30.84,0:41:33.59,Main Dialogue,Subaru,0,0,0,,Estar no mesmo ramo que eu significaria\N que estão desempregados!
+Dialogue: 0,0:41:35.14,0:41:39.06,Main Dialogue,Felt,0,0,0,,Então, esse desempregado aqui fez uma\N proposta que o deixou muito à frente.
+Dialogue: 0,0:41:39.06,0:41:42.10,Main Dialogue,Felt,0,0,0,,Que preço o seu cliente está disposto a pagar?
+Dialogue: 0,0:41:54.82,0:41:56.50,Main Dialogue,Rom,0,0,0,,Vinte moedas sagradas.
+Dialogue: 0,0:41:56.78,0:42:00.41,Main Dialogue,Elsa,0,0,0,,Essas são todas as moedas \Nsagradas que meu cliente me deu.
+Dialogue: 0,0:42:00.91,0:42:02.45,Main Dialogue,Else,0,0,0,,Será que isso é o suficiente?
+Dialogue: 0,0:42:03.54,0:42:06.50,Main Dialogue,Rom,0,0,0,,Você é homem!\N Não faça essa cara de bobo!
+Dialogue: 0,0:42:06.50,0:42:11.01,Main Dialogue,Rom,0,0,0,,Eu te disse, o seu metia \Nnão vale menos de vinte...
+Dialogue: 0,0:42:11.80,0:42:15.63,Main Dialogue,Rom,0,0,0,,Ao meu ver, a vitória nessa negociação\N está pendendo para o lado do garoto...
+Dialogue: 0,0:42:15.63,0:42:20.68,Main Dialogue,Rom,0,0,0,,O seu cliente e você que me desculpe, mas é \Nmelhor você guardar essas moedas e partir.
+Dialogue: 0,0:42:24.35,0:42:26.27,Main Dialogue,Subaru,0,0,0,,Sim!
+Dialogue: 0,0:42:27.86,0:42:32.69,Main Dialogue,Subaru,0,0,0,,O-O que foi? Qual o problema em \Ncomemorar? Eu estou empolgado!
+Dialogue: 0,0:42:32.69,0:42:34.40,Main Dialogue,Felt,0,0,0,,Ninguém disse nada.
+Dialogue: 0,0:42:34.40,0:42:37.95,Main Dialogue,Felt,0,0,0,,Comemore o quanto quiser. Eu não me \Nimporto, contanto que eu lucre com isso.
+Dialogue: 0,0:42:38.45,0:42:42.45,Main Dialogue,Subaru,0,0,0,,Hum, me desculpe, Elsa-san. \NVocê provavelmente estará em apuros, né?
+Dialogue: 0,0:42:42.95,0:42:44.75,Main Dialogue,Elsa,0,0,0,,Fazer o quê.
+Dialogue: 0,0:42:44.75,0:42:48.96,Main Dialogue,Elsa,0,0,0,,É culpa do meu cliente \Npor tentar economizar.
+Dialogue: 0,0:42:52.50,0:42:55.34,Main Dialogue,Elsa,0,0,0,,Bem, esse negócio foi \Ndecepcionante para mim,
+Dialogue: 0,0:42:55.34,0:42:57.34,Main Dialogue,Elsa,0,0,0,,mas estou de saída por ora.
+Dialogue: 0,0:42:59.60,0:43:03.56,Main Dialogue,Elsa,0,0,0,,Aproveitando, o que você \Npretende fazer com esse brasão?
+Dialogue: 0,0:43:03.56,0:43:06.52,Main Dialogue,Subaru,0,0,0,,Ah, eu vou achar a dona\N e devolvê-lo para ela.
+Dialogue: 0,0:43:16.32,0:43:19.32,Main Dialogue,Elsa,0,0,0,,Ah... Então você é um deles.
+Dialogue: 0,0:43:22.33,0:43:23.29,Main Dialogue,Subaru,0,0,0,,O-O que foi?
+Dialogue: 0,0:43:23.29,0:43:24.79,Main Dialogue,Felt,0,0,0,,Você quer morrer?!
+Dialogue: 0,0:43:24.79,0:43:27.54,Main Dialogue,Elsa,0,0,0,,Minha nossa. \NVocê desviou do meu golpe.
+Dialogue: 0,0:43:37.17,0:43:39.68,Main Dialogue,Elsa,0,0,0,,Essa é a minha primeira \Nbatalha mortal com um gigante!
+Dialogue: 0,0:43:39.68,0:43:43.68,Main Dialogue,Rom,0,0,0,,Fique quieta, mocinha! Eu vou te \Nesmagar e te dar de comida aos ratos!
+Dialogue: 0,0:43:57.82,0:43:58.65,Main Dialogue,Subaru,0,0,0,,Isso é ruim!
+Dialogue: 0,0:43:58.65,0:44:00.91,Main Dialogue,Felt,0,0,0,,Não se preocupe. \NNunca que o velho Rom perderia.
+Dialogue: 0,0:44:01.20,0:44:03.53,Main Dialogue,Rom,0,0,0,,Tome isso!
+Dialogue: 0,0:44:08.41,0:44:09.87,Main Dialogue,Felt,0,0,0,,Velho Rom!
+Dialogue: 0,0:44:12.04,0:44:14.17,Main Dialogue,Rom,0,0,0,,Maldição!
+Dialogue: 0,0:44:14.80,0:44:15.92,Main Dialogue,Elsa,0,0,0,,Eu esqueci de dizer...
+Dialogue: 0,0:44:15.92,0:44:17.72,Main Dialogue,Rom,0,0,0,,Eu ao menos vou te levar junto comigo!
+Dialogue: 0,0:44:21.76,0:44:23.97,Main Dialogue,Elsa,0,0,0,,Muito obrigado pelo leite.
+Dialogue: 0,0:44:32.19,0:44:34.06,Main Dialogue,Elsa,0,0,0,,Eu vou devolver isso.
+Dialogue: 0,0:44:36.86,0:44:40.86,Main Dialogue,Felt,0,0,0,,Sua cadela... Como se atreve?
+Dialogue: 0,0:44:40.86,0:44:43.62,Main Dialogue,Elsa,0,0,0,,Hum? Parece que você é mais\N corajosa do que seu amigo ali.
+Dialogue: 0,0:44:44.16,0:44:47.29,Main Dialogue,Elsa,0,0,0,,Mas se você resistir, acabará se machucando.
+Dialogue: 0,0:44:47.75,0:44:52.35,Main Dialogue,Felt,0,0,0,,Eu vou te matar, mesmo se \Nvocê não revidar, sua psicopata!
+Dialogue: 0,0:44:52.71,0:44:55.50,Main Dialogue,Elsa,0,0,0,,Se você se mexer demais,\N minhas mãos podem escapulir.
+Dialogue: 0,0:44:55.50,0:44:57.83,Main Dialogue,Elsa,0,0,0,,Eu não levo tanto jeito com punhais, sabe.
+Dialogue: 0,0:44:58.46,0:45:00.80,Main Dialogue,Felt,0,0,0,,Desculpe te envolver nisso.
+Dialogue: 0,0:45:00.80,0:45:01.93,Main Dialogue,Subaru,0,0,0,,E-Eu...
+Dialogue: 0,0:45:03.22,0:45:04.22,Italics Dialogue,Elsa,0,0,0,,Bênção do Vento.
+Dialogue: 0,0:45:06.60,0:45:09.31,Main Dialogue,Elsa,0,0,0,,Que magnífico. Posso ver que \Nvocê é amada por este mundo.
+Dialogue: 0,0:45:09.31,0:45:11.19,Main Dialogue,Elsa,0,0,0,,Eu te invejo!
+Dialogue: 0,0:45:23.78,0:45:27.83,Main Dialogue,Elsa,0,0,0,,O velhote e a garota já caíram\N e você ainda nem se moveu.
+Dialogue: 0,0:45:27.83,0:45:29.45,Main Dialogue,Elsa,0,0,0,,Você já desistiu?
+Dialogue: 0,0:45:29.45,0:45:32.37,Main Dialogue,Subaru,0,0,0,,M-Maldição...
+Dialogue: 0,0:45:34.75,0:45:36.88,Main Dialogue,Elsa,0,0,0,,Ah, você finalmente levantou.
+Dialogue: 0,0:45:36.88,0:45:40.46,Main Dialogue,Elsa,0,0,0,,Não é tão divertido, já que você demorou\N tanto, mas ainda assim, nada mau.
+Dialogue: 0,0:45:51.35,0:45:55.23,Main Dialogue,Elsa,0,0,0,,Não vai adiantar, no entanto. Você é só um\N amador e seus movimentos são bruscos.
+Dialogue: 0,0:45:55.23,0:45:56.98,Main Dialogue,Elsa,0,0,0,,Você não possui nenhuma bênção ou técnica.
+Dialogue: 0,0:45:56.98,0:45:59.69,Main Dialogue,Elsa,0,0,0,,Esperava ao menos tirar sabedoria \Nde você, mas também lhe falta isso.
+Dialogue: 0,0:46:00.03,0:46:03.03,Main Dialogue,Subaru,0,0,0,,Calada! Eu tenho o meu orgulho!
+Dialogue: 0,0:46:03.03,0:46:05.78,Main Dialogue,Subaru,0,0,0,,Depois de me fazer passar por tudo isso...
+Dialogue: 0,0:46:06.49,0:46:09.20,Main Dialogue,Elsa,0,0,0,,Ao menos reconheço que \Nvocê é bastante determinado.
+Dialogue: 0,0:46:09.20,0:46:11.12,Main Dialogue,Elsa,0,0,0,,Se ao menos você tivesse feito isso antes,
+Dialogue: 0,0:46:11.12,0:46:13.92,Main Dialogue,Elsa,0,0,0,,as coisas teriam sido \Ndiferentes para aqueles dois.
+Dialogue: 0,0:46:24.63,0:46:26.64,Main Dialogue,Elsa,0,0,0,,Acho que está na hora de terminarmos isso.
+Dialogue: 0,0:46:26.64,0:46:28.55,Main Dialogue,Elsa,0,0,0,,Eu vou te mandar para dormir com os anjos.
+Dialogue: 0,0:46:46.16,0:46:50.03,Main Dialogue,Elsa,0,0,0,,Ah... Eu realmente senti esse golpe.
+Dialogue: 0,0:46:57.96,0:46:59.04,Main Dialogue,Elsa,0,0,0,,Surpreso?
+Dialogue: 0,0:46:59.59,0:47:02.59,Main Dialogue,Elsa,0,0,0,,Eu abri sua barriga quando\N passamos um pelo outro.
+Dialogue: 0,0:47:02.59,0:47:05.38,Main Dialogue,Elsa,0,0,0,,É exatamente nisso que me especializei.
+Dialogue: 0,0:47:10.26,0:47:12.06,Main Dialogue,Elsa,0,0,0,,Como eu imaginava...
+Dialogue: 0,0:47:12.51,0:47:16.56,Main Dialogue,Elsa,0,0,0,,Suas entranhas têm uma cor tão bela!
+Dialogue: 0,0:47:16.94,0:47:19.61,Italics Dialogue,Subaru,0,0,0,,Isso dói... Isso dói...\N Isso dói... Isso dói...
+Dialogue: 0,0:47:19.61,0:47:21.15,Italics Dialogue,Subaru,0,0,0,,Isso dói... Isso dói...
+Dialogue: 0,0:47:21.15,0:47:22.98,Main Dialogue,Elsa,0,0,0,,Está doendo? Você está sofrendo?
+Dialogue: 0,0:47:21.15,0:47:23.86,Main Dialogue,Subaru,0,0,0,,Não... está doendo?
+Dialogue: 0,0:47:22.98,0:47:25.32,Main Dialogue,Elsa,0,0,0,,Com dor? Triste? Quer morrer?
+Dialogue: 0,0:47:25.32,0:47:26.49,Italics Dialogue,Subaru,0,0,0,,Morrer?
+Dialogue: 0,0:47:26.49,0:47:30.74,Italics Dialogue,Subaru,0,0,0,,Eu morri? Ainda estou vivo? Quando eu\N vou morrer? Quando eu vou morrer?
+Dialogue: 0,0:47:30.74,0:47:37.71,Main Dialogue,Elsa,0,0,0,,{\an8}Devagar, devagar, devagar, devagar...
+Dialogue: 0,0:47:32.83,0:47:34.24,Italics Dialogue,Subaru,0,0,0,,Estou com medo...\N Estou com medo...
+Dialogue: 0,0:47:34.24,0:47:37.71,Italics Dialogue,Subaru,0,0,0,,Estou com medo! Estou com\N medo! Estou com medo!
+Dialogue: 0,0:47:37.71,0:47:39.71,Italics Dialogue,Subaru,0,0,0,,Eu vou morrer! Eu vou \Nmorrer! Eu vou morrer!
+Dialogue: 0,0:47:39.71,0:47:42.13,Main Dialogue,Elsa,0,0,0,,Sim, você está perdendo seu calor corporal...
+Dialogue: 0,0:47:43.84,0:47:46.80,Main Dialogue,Elsa,0,0,0,,Você está ficando frio aos poucos...
+Dialogue: 0,0:47:46.80,0:47:49.01,Italics Dialogue,Subaru,0,0,0,,Essa não... Eu estou morto.
+Dialogue: 0,0:47:53.14,0:47:56.31,Main Dialogue,Kadomon,0,0,0,,O que foi, moleque? \NEstá parecendo que viu um fantasma.
+Dialogue: 0,0:47:56.89,0:47:58.94,Main Dialogue,Kadomon,0,0,0,,Garoto? Você está bem?
+Dialogue: 0,0:48:00.40,0:48:03.07,Main Dialogue,Subaru,0,0,0,,Não sei o que está acontecendo...
+Dialogue: 0,0:48:10.70,0:48:12.62,Main Dialogue,Kadomon,0,0,0,,Você está bem, garoto?
+Dialogue: 0,0:48:12.62,0:48:15.53,Main Dialogue,Kadomon,0,0,0,,Aqui, não se preocupe com\N o dinheiro. Apenas pegue.
+Dialogue: 0,0:48:25.13,0:48:26.63,Main Dialogue,Subaru,0,0,0,,Ei... Espere...
+Dialogue: 0,0:48:27.17,0:48:30.13,Main Dialogue,Subaru,0,0,0,,Espere! Por favor, espere!
+Dialogue: 0,0:48:30.63,0:48:33.80,Main Dialogue,Subaru,0,0,0,,Espere! Satella!
+Dialogue: 0,0:48:36.14,0:48:37.64,Main Dialogue,Subaru,0,0,0,,Por favor, não me ignore!
+Dialogue: 0,0:48:37.64,0:48:41.06,Main Dialogue,Subaru,0,0,0,,Eu ter morrido sem ter feito o \Nque você falou foi minha culpa!
+Dialogue: 0,0:48:41.56,0:48:43.73,Main Dialogue,Subaru,0,0,0,,Mas eu estava desesperado!
+Dialogue: 0,0:48:44.32,0:48:48.19,Main Dialogue,Subaru,0,0,0,,Eu voltei àquela casa depois daquilo,\N mas eu não consegui te encontrar...
+Dialogue: 0,0:48:51.78,0:48:53.82,Main Dialogue,Subaru,0,0,0,,Me desculpe por pensar \Napenas em mim mesmo.
+Dialogue: 0,0:48:54.16,0:48:56.95,Main Dialogue,Subaru,0,0,0,,Mas fico feliz de saber que\N você está bem, Satella.
+Dialogue: 0,0:48:59.08,0:49:01.17,Main Dialogue,Emilia,0,0,0,,O que você está pensando?
+Dialogue: 0,0:49:02.96,0:49:04.75,Main Dialogue,Emilia,0,0,0,,Eu não sei quem é você,
+Dialogue: 0,0:49:04.75,0:49:07.21,Main Dialogue,Emilia,0,0,0,,mas não me chame pelo \Nnome da Bruxa da Inveja!
+Dialogue: 0,0:49:07.21,0:49:08.55,Main Dialogue,Emilia,0,0,0,,O que você tem na cabeça?!
+Dialogue: 0,0:49:21.85,0:49:26.97,Episode Title,Title,0,0,0,,O Fim do {\c&H8A7084&}Começo{\c&HFFFFFF&} e o Começo do Fim
