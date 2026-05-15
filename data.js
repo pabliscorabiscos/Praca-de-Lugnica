@@ -47,7 +47,7 @@ const EPISODIOS = [
     "sources": [
       {
         "quality": "1080p",
-        "src":     "https://github.com/SEU-USUARIO/SEU-REPO/releases/download/v1.0/rezero-t1e01-1080p.mp4",
+        "src":     "https://github.com/pabliscorabiscos/Praca-de-Lugnica/releases/download/v1.0/rezero-t1e01-1080p.mp4",
         "type":    "video/mp4"
       }
     ],
@@ -61,7 +61,7 @@ const EPISODIOS = [
       {
         "label":   "Português (Dublado)",
         "lang":    "pt",
-        "src":     "https://github.com/SEU-USUARIO/SEU-REPO/releases/download/v1.0/rezero-t1e01-dub-pt.aac",
+        "src":     "https://github.com/pabliscorabiscos/Praca-de-Lugnica/releases/download/v1.0/dub-pt.aac",
         "type":    "audio/aac"
       }
     ],
