@@ -1,12 +1,12 @@
 /* ============================================================
    DADOS DO SITE — Re:Zero+
-   Gerado pelo painel em 15/05/2026, 02:54:06
+   Gerado pelo painel em 15/05/2026, 03:03:41
    ============================================================ */
 
 const SITE = {
   "nome": "Praça de Lugnica",
   "titulo": "Re:Zero − Começando a Vida em Outro Mundo do Zero",
-  "sinopse": "Subaru Natsuki é transportado para um mundo fantástico onde descobre um poder terrível: a capacidade de retroceder o tempo sempre que morre. Para salvar a garota que ama e proteger seus novos amigos, ele terá que enfrentar ciclos intermináveis de dor, medo e desespero. Em um mundo onde o destino pode ser reescrito com sangue, até onde você iria para mudar o futuro?",
+  "sinopse": "Subaru Natsuki é transportado para um mundo fantástico onde descobre um poder terrível: a capacidade de retroceder o tempo sempre que morre.",
   "ano": 2016,
   "temporadas": 1,
   "qualidade": "FULL HD",
@@ -21,7 +21,7 @@ const EPISODIOS = [
     "episodio": 1,
     "titulo": "E01 - O Fim do Começo e o Começo do Fim",
     "duracao": 53,
-    "novo": true,
+    "novo": false,
     "thumb": "https://i.imgur.com/MN6xy3G.jpeg",
     "sinopse": "",
     "sources": [
@@ -36,7 +36,7 @@ const EPISODIOS = [
         "label": "Dublado",
         "lang": "pt-br",
         "default": true,
-        "src": "https://github.com/pabliscorabiscos/Praca-de-Lugnica/releases/download/v1.0/rezero-t1e01-dub-pt.aac"
+        "src": "https://github.com/pabliscorabiscos/Praca-de-Lugnica/releases/download/v1.0/dub-pt.aac"
       }
     ],
     "legendas": [
@@ -47,7 +47,7 @@ const EPISODIOS = [
         "default": true
       }
     ],
-    "criadoEm": 1778824418029
+    "criadoEm": 1778825013371
   }
 ];
 
